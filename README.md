@@ -26,6 +26,24 @@ Alongside model development, this project evaluates responsible AI consideration
 
 
 
+## Web Application
+
+The project includes a prototype web application that allows users to upload a skin image and receive a predicted classification with confidence scores and risk-level guidance.
+
+### Low Risk Example
+
+![Low Risk Prediction](web_app_screenshots/home_screen_low_risk.png)
+
+### Medium Risk Example
+
+![Medium Risk Prediction](web_app_screenshots/home_screen_medium_risk.png)
+
+### High Risk Example
+
+![High Risk Prediction](web_app_screenshots/home_risk_high_risk.png)
+
+
+
 
 
 
@@ -63,6 +81,11 @@ The objectives of this project were to:
 The models were trained using a publicly available dermatology image dataset containing more than 27,000 dermoscopic images spanning ten skin disease classes. The dissertation uses this dataset to compare baseline and hybrid deep learning models under consistent experimental conditions.
 
 
+**Dataset:** [Skin Diseases Image Dataset (Kaggle)](https://www.kaggle.com/datasets/ismailpromus/skin-diseases-image-dataset)
+
+> **Note:** The dataset is not included in this repository due to licensing restrictions and its size (approximately 5.6 GB). Users should download it directly from Kaggle before reproducing the experiments.
+
+
 
 \*The dataset is not included in this repository due to licensing and file size considerations.\*
 
@@ -86,7 +109,13 @@ The proposed model combines:
 
 \- Attentional Feature Fusion (AFF)
 
+## Hybrid Model Architecture
 
+![Hybrid Architecture](results/hybrid_all_results/hybrid_architecture.png)
+
+## Baseline Model Architecture
+
+![Baseline Architecture](results/resnet_results/resnet50_architecture.png)
 
 The hybrid architecture captures both local convolutional features and global attention-based representations before performing multi-class skin disease classification.
 
@@ -130,7 +159,31 @@ The project also evaluated:
 
 
 
+## Visual Results
 
+### Training Curves
+
+![Training Curves](results/hybrid_all_results/training_curves.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](results/hybrid_all_results/confusion_matrix.png)
+
+### Confidence Calibration
+
+![Confidence Calibration](results/hybrid_all_results/confidence_calibration.png)
+
+### Skin Tone Fairness Analysis
+
+![Skin Tone Analysis](results/hybrid_all_results/skin_tone_analysis.png)
+
+### Precision and Recall Comparison
+
+![Precision Recall](results/hybrid_all_results/precision_recall_both_models.png)
+
+### Per-Class Metrics
+
+![Per Class Metrics](results/hybrid_all_results/per_class_metrics.png)
 
 
 
