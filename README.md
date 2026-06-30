@@ -48,6 +48,18 @@ The project includes a prototype web application that allows users to upload a s
 
 
 
+## Quick Start
+
+```bash
+git clone https://github.com/Naomikn/skin-disease-classification
+
+cd skin-disease-classification
+
+pip install -r web_app/requirements.txt
+
+python web_app/main.py
+```
+
 ## Research Objectives
 
 
