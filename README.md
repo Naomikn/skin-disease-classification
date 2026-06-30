@@ -1,8 +1,16 @@
-\# A Hybrid ConvNeXt–Swin Transformer for Robust, Fair, and Calibrated Skin Disease Classification
+# A Hybrid ConvNeXt–Swin Transformer for Robust, Fair, and Calibrated Skin Disease Classification
 
 
 
-\## Overview
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Skin%20Disease%20Classification-green)
+![Flask](https://img.shields.io/badge/Flask-Web%20App-black)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+
+
+## Overview
 
 
 
@@ -18,11 +26,11 @@ Alongside model development, this project evaluates responsible AI consideration
 
 
 
-\---
 
 
 
-\## Research Objectives
+
+## Research Objectives
 
 
 
@@ -44,11 +52,11 @@ The objectives of this project were to:
 
 
 
-\---
 
 
 
-\## Dataset
+
+## Dataset
 
 
 
@@ -60,11 +68,11 @@ The models were trained using a publicly available dermatology image dataset con
 
 
 
-\---
 
 
 
-\## Model Architecture
+
+## Model Architecture
 
 
 
@@ -84,11 +92,11 @@ The hybrid architecture captures both local convolutional features and global at
 
 
 
-\---
 
 
 
-\## Results
+
+## Results
 
 
 
@@ -96,13 +104,13 @@ Compared with the ResNet-50 baseline, the proposed hybrid model achieved:
 
 
 
-\- \*\*90.27% classification accuracy\*\*
+- **90.27% classification accuracy**
 
-\- \*\*Macro F1-score: 0.866\*\*
+- **Macro F1-score: 0.866**
 
-\- \*\*11.79 percentage point improvement\*\* over the baseline
+- **11.79 percentage point improvement** over the baseline
 
-\- Reduction in skin tone performance disparity from approximately \*\*8.0 percentage points\*\* to \*\*2.68 percentage points\*\*
+- Reduction in skin tone performance disparity from approximately **8.0 percentage points** to **2.68 percentage points**
 
 
 
@@ -122,11 +130,11 @@ The project also evaluated:
 
 
 
-\---
 
 
 
-\## Repository Structure
+
+## Repository Structure
 
 
 
@@ -158,11 +166,11 @@ skin-disease-classification/
 
 
 
-\---
 
 
 
-\## Technologies Used
+
+## Technologies Used
 
 
 
@@ -186,11 +194,11 @@ skin-disease-classification/
 
 
 
-\---
 
 
 
-\## Repository Contents
+
+## Repository Contents
 
 
 
@@ -212,11 +220,11 @@ This repository includes:
 
 
 
-\---
 
 
 
-\## Future Work
+
+## Future Work
 
 
 
@@ -236,11 +244,11 @@ Potential future improvements include:
 
 
 
-\---
 
 
 
-\## Disclaimer
+
+## Disclaimer
 
 
 
