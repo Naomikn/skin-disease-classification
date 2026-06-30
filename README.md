@@ -52,7 +52,7 @@ The objectives of this project were to:
 
 
 
-The models were trained using a publicly available dermatology image dataset containing more than 27,000 dermoscopic images spanning ten skin disease classes. The dissertation uses this dataset to compare baseline and hybrid deep learning models under consistent experimental conditions. :contentReference\[oaicite:1]{index=1}
+The models were trained using a publicly available dermatology image dataset containing more than 27,000 dermoscopic images spanning ten skin disease classes. The dissertation uses this dataset to compare baseline and hybrid deep learning models under consistent experimental conditions.
 
 
 
@@ -80,7 +80,7 @@ The proposed model combines:
 
 
 
-The hybrid architecture captures both local convolutional features and global attention-based representations before performing multi-class skin disease classification. :contentReference\[oaicite:2]{index=2}
+The hybrid architecture captures both local convolutional features and global attention-based representations before performing multi-class skin disease classification.
 
 
 
@@ -118,7 +118,7 @@ The project also evaluated:
 
 \- Class-wise performance
 
-\- Comparative benchmarking against published literature :contentReference\[oaicite:3]{index=3}
+\- Comparative benchmarking against published literature
 
 
 
