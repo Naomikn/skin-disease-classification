@@ -317,8 +317,7 @@ To protect the originality of the academic submission, the full dissertation doc
 
 The repository contains the complete implementation, experimental methodology, evaluation results, and supporting visualisations.
 
-Recruiters, researchers, and academic collaborators are welcome to request access to the dissertation.
-
+The full dissertation is available upon request for academic, research, or recruitment purposes.
 
 
 ## Disclaimer
