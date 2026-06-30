@@ -271,8 +271,6 @@ This repository includes:
 
 
 
-\- Full MSc dissertation
-
 \- Model training notebooks
 
 \- Experimental results
@@ -310,6 +308,16 @@ Potential future improvements include:
 
 
 
+
+
+
+## Dissertation
+
+To protect the originality of the academic submission, the full dissertation document is not publicly available.
+
+The repository contains the complete implementation, experimental methodology, evaluation results, and supporting visualisations.
+
+Recruiters, researchers, and academic collaborators are welcome to request access to the dissertation.
 
 
 
