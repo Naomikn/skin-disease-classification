@@ -14,7 +14,7 @@ The project investigates whether combining convolutional neural networks (CNNs) 
 
 
 
-Alongside model development, this project evaluates responsible AI considerations including fairness across different skin tones, confidence calibration, explainability using Grad-CAM, and class-wise performance analysis to move beyond traditional accuracy-focused evaluation. :contentReference\[oaicite:0]{index=0}
+Alongside model development, this project evaluates responsible AI considerations including fairness across different skin tones, confidence calibration, explainability using Grad-CAM, and class-wise performance analysis to move beyond traditional accuracy-focused evaluation.
 
 
 
