@@ -1,0 +1,729 @@
+image_path,image_name,true_label,pred_label,class_name,correct,ita_value,skin_group,short_name
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0024431.jpg,ISIC_0024431.jpg,4,4,Basal Cell Carcinoma,True,-84.16551314944701,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0024432.jpg,ISIC_0024432.jpg,4,5,Basal Cell Carcinoma,False,87.5993130740781,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0024504.jpg,ISIC_0024504.jpg,4,4,Basal Cell Carcinoma,True,89.95923811095817,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0024833.jpg,ISIC_0024833.jpg,4,4,Basal Cell Carcinoma,True,87.3369254261583,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0024885.jpg,ISIC_0024885.jpg,4,4,Basal Cell Carcinoma,True,89.85854232290659,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0024897.jpg,ISIC_0024897.jpg,4,4,Basal Cell Carcinoma,True,89.71699089024004,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0025383.jpg,ISIC_0025383.jpg,4,4,Basal Cell Carcinoma,True,-85.18847325464493,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0025467.jpg,ISIC_0025467.jpg,4,4,Basal Cell Carcinoma,True,-86.76000065789013,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0025700.jpg,ISIC_0025700.jpg,4,4,Basal Cell Carcinoma,True,87.64902683048226,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0026074.jpg,ISIC_0026074.jpg,4,4,Basal Cell Carcinoma,True,88.89238220136629,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0026192.jpg,ISIC_0026192.jpg,4,4,Basal Cell Carcinoma,True,-87.23644609177451,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0026343.jpg,ISIC_0026343.jpg,4,4,Basal Cell Carcinoma,True,85.58916252553605,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0026829.jpg,ISIC_0026829.jpg,4,4,Basal Cell Carcinoma,True,85.30138514352315,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0027120.jpg,ISIC_0027120.jpg,4,4,Basal Cell Carcinoma,True,-88.88826038201262,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0027425.jpg,ISIC_0027425.jpg,4,4,Basal Cell Carcinoma,True,-89.94323083946868,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0027601.jpg,ISIC_0027601.jpg,4,4,Basal Cell Carcinoma,True,87.83398586137224,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0027814.jpg,ISIC_0027814.jpg,4,4,Basal Cell Carcinoma,True,87.9867605613146,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0027846.jpg,ISIC_0027846.jpg,4,4,Basal Cell Carcinoma,True,84.64408957818324,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0028107.jpg,ISIC_0028107.jpg,4,4,Basal Cell Carcinoma,True,87.49851164150596,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0028303.jpg,ISIC_0028303.jpg,4,4,Basal Cell Carcinoma,True,-87.92025040887755,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0028419.jpg,ISIC_0028419.jpg,4,4,Basal Cell Carcinoma,True,89.6624264179495,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0028583.jpg,ISIC_0028583.jpg,4,4,Basal Cell Carcinoma,True,86.42363147972183,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0028671.jpg,ISIC_0028671.jpg,4,4,Basal Cell Carcinoma,True,-82.46328151749299,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0028928.jpg,ISIC_0028928.jpg,4,5,Basal Cell Carcinoma,False,89.7690831430773,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0028989.jpg,ISIC_0028989.jpg,4,4,Basal Cell Carcinoma,True,89.79219813691665,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0029129.jpg,ISIC_0029129.jpg,4,4,Basal Cell Carcinoma,True,87.08076864213486,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0029278.jpg,ISIC_0029278.jpg,4,4,Basal Cell Carcinoma,True,87.52154024067187,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0029501.jpg,ISIC_0029501.jpg,4,4,Basal Cell Carcinoma,True,-87.79071825676559,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0029831.jpg,ISIC_0029831.jpg,4,4,Basal Cell Carcinoma,True,84.75721272459509,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0030010.jpg,ISIC_0030010.jpg,4,4,Basal Cell Carcinoma,True,87.35783701112246,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0030145.jpg,ISIC_0030145.jpg,4,4,Basal Cell Carcinoma,True,87.74654568105358,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0030233.jpg,ISIC_0030233.jpg,4,4,Basal Cell Carcinoma,True,85.28975386900032,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0030271.jpg,ISIC_0030271.jpg,4,4,Basal Cell Carcinoma,True,85.04264257679351,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0030526.jpg,ISIC_0030526.jpg,4,4,Basal Cell Carcinoma,True,86.83459182361447,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0030594.jpg,ISIC_0030594.jpg,4,4,Basal Cell Carcinoma,True,86.47708115360994,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0030868.jpg,ISIC_0030868.jpg,4,4,Basal Cell Carcinoma,True,87.98274588806085,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0031007.jpg,ISIC_0031007.jpg,4,4,Basal Cell Carcinoma,True,-88.29629271817613,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0031009.jpg,ISIC_0031009.jpg,4,4,Basal Cell Carcinoma,True,89.29868012152754,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0031095.jpg,ISIC_0031095.jpg,4,4,Basal Cell Carcinoma,True,89.2989704212597,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0031298.jpg,ISIC_0031298.jpg,4,4,Basal Cell Carcinoma,True,-88.1416983558988,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0031531.jpg,ISIC_0031531.jpg,4,4,Basal Cell Carcinoma,True,88.27435985251611,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0031614.jpg,ISIC_0031614.jpg,4,5,Basal Cell Carcinoma,False,89.12965999761475,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0031728.jpg,ISIC_0031728.jpg,4,4,Basal Cell Carcinoma,True,87.081560358667,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0032132.jpg,ISIC_0032132.jpg,4,4,Basal Cell Carcinoma,True,86.9706181986058,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0032307.jpg,ISIC_0032307.jpg,4,6,Basal Cell Carcinoma,False,-89.10919945786587,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0032808.jpg,ISIC_0032808.jpg,4,4,Basal Cell Carcinoma,True,86.09383433346719,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0032959.jpg,ISIC_0032959.jpg,4,4,Basal Cell Carcinoma,True,-87.65222949812473,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0033054.jpg,ISIC_0033054.jpg,4,4,Basal Cell Carcinoma,True,-89.77153884752693,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0033248.jpg,ISIC_0033248.jpg,4,4,Basal Cell Carcinoma,True,-89.15560855259149,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0033372.jpg,ISIC_0033372.jpg,4,4,Basal Cell Carcinoma,True,-89.67151803969226,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0033579.jpg,ISIC_0033579.jpg,4,4,Basal Cell Carcinoma,True,88.38712294696955,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0034047.jpg,ISIC_0034047.jpg,4,4,Basal Cell Carcinoma,True,85.53550464579062,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0034093.jpg,ISIC_0034093.jpg,4,4,Basal Cell Carcinoma,True,-89.08912114870478,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0053546.jpg,ISIC_0053546.jpg,4,4,Basal Cell Carcinoma,True,89.98797916158337,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0053714.jpg,ISIC_0053714.jpg,4,6,Basal Cell Carcinoma,False,86.2202388013848,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0053731.jpg,ISIC_0053731.jpg,4,4,Basal Cell Carcinoma,True,75.54053145682776,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0053867.jpg,ISIC_0053867.jpg,4,4,Basal Cell Carcinoma,True,86.47329730348191,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0053873.jpg,ISIC_0053873.jpg,4,4,Basal Cell Carcinoma,True,88.32139177747611,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0053951.jpg,ISIC_0053951.jpg,4,4,Basal Cell Carcinoma,True,-89.19697630188759,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0054161.jpg,ISIC_0054161.jpg,4,4,Basal Cell Carcinoma,True,87.21664161892201,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0054279.jpg,ISIC_0054279.jpg,4,4,Basal Cell Carcinoma,True,89.11066243875094,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0054338.jpg,ISIC_0054338.jpg,4,4,Basal Cell Carcinoma,True,87.95745750862922,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0054343.jpg,ISIC_0054343.jpg,4,4,Basal Cell Carcinoma,True,83.55491514203118,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0054353.jpg,ISIC_0054353.jpg,4,4,Basal Cell Carcinoma,True,-79.8284014110914,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0054365.jpg,ISIC_0054365.jpg,4,4,Basal Cell Carcinoma,True,82.34395941391455,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0054435.jpg,ISIC_0054435.jpg,4,4,Basal Cell Carcinoma,True,89.3105424339434,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0054443.jpg,ISIC_0054443.jpg,4,4,Basal Cell Carcinoma,True,85.75298797786003,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0054448.jpg,ISIC_0054448.jpg,4,4,Basal Cell Carcinoma,True,88.49346965188377,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0054589.jpg,ISIC_0054589.jpg,4,4,Basal Cell Carcinoma,True,-87.64534438178501,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0054647.jpg,ISIC_0054647.jpg,4,4,Basal Cell Carcinoma,True,87.015378857658,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0054668.jpg,ISIC_0054668.jpg,4,4,Basal Cell Carcinoma,True,87.99509561819143,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0054674.jpg,ISIC_0054674.jpg,4,4,Basal Cell Carcinoma,True,86.5293530188592,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0054740.jpg,ISIC_0054740.jpg,4,4,Basal Cell Carcinoma,True,-78.93853076533104,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0054834.jpg,ISIC_0054834.jpg,4,4,Basal Cell Carcinoma,True,88.60735866819205,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0054836.jpg,ISIC_0054836.jpg,4,6,Basal Cell Carcinoma,False,86.566724492759,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0054929.jpg,ISIC_0054929.jpg,4,4,Basal Cell Carcinoma,True,88.96973582628453,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0054972.jpg,ISIC_0054972.jpg,4,4,Basal Cell Carcinoma,True,84.2540133637054,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0055058.jpg,ISIC_0055058.jpg,4,4,Basal Cell Carcinoma,True,79.63537283211788,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0055089.jpg,ISIC_0055089.jpg,4,4,Basal Cell Carcinoma,True,88.75619207787106,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0055194.jpg,ISIC_0055194.jpg,4,4,Basal Cell Carcinoma,True,-81.17501744963664,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0055323.jpg,ISIC_0055323.jpg,4,4,Basal Cell Carcinoma,True,83.53463532353109,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0055401.jpg,ISIC_0055401.jpg,4,4,Basal Cell Carcinoma,True,86.4030676007021,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0055418.jpg,ISIC_0055418.jpg,4,4,Basal Cell Carcinoma,True,89.06328558847957,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0055441.jpg,ISIC_0055441.jpg,4,4,Basal Cell Carcinoma,True,80.56323879560253,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0055600.jpg,ISIC_0055600.jpg,4,4,Basal Cell Carcinoma,True,87.99040205805665,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0055681.jpg,ISIC_0055681.jpg,4,4,Basal Cell Carcinoma,True,89.264875909974,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0055693.jpg,ISIC_0055693.jpg,4,4,Basal Cell Carcinoma,True,-87.59715955234563,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0055748.jpg,ISIC_0055748.jpg,4,4,Basal Cell Carcinoma,True,84.36489964722148,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0055766.jpg,ISIC_0055766.jpg,4,4,Basal Cell Carcinoma,True,86.34678651283883,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0055792.jpg,ISIC_0055792.jpg,4,4,Basal Cell Carcinoma,True,88.15129636883047,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0055944.jpg,ISIC_0055944.jpg,4,4,Basal Cell Carcinoma,True,-86.42867433455562,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0055950.jpg,ISIC_0055950.jpg,4,4,Basal Cell Carcinoma,True,88.6676162001587,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0056014.jpg,ISIC_0056014.jpg,4,4,Basal Cell Carcinoma,True,78.85235112555083,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0056187.jpg,ISIC_0056187.jpg,4,4,Basal Cell Carcinoma,True,87.69734549988942,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0056411.jpg,ISIC_0056411.jpg,4,4,Basal Cell Carcinoma,True,74.84047463383794,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0056463.jpg,ISIC_0056463.jpg,4,4,Basal Cell Carcinoma,True,-89.51463271789413,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0056571.jpg,ISIC_0056571.jpg,4,4,Basal Cell Carcinoma,True,87.24264696532849,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0056588.jpg,ISIC_0056588.jpg,4,4,Basal Cell Carcinoma,True,86.24987895702672,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0056605.jpg,ISIC_0056605.jpg,4,4,Basal Cell Carcinoma,True,87.91303777389385,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0056631.jpg,ISIC_0056631.jpg,4,4,Basal Cell Carcinoma,True,87.38868763071126,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0056737.jpg,ISIC_0056737.jpg,4,4,Basal Cell Carcinoma,True,-87.80647841575271,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0056826.jpg,ISIC_0056826.jpg,4,4,Basal Cell Carcinoma,True,-79.59054924860612,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0056835.jpg,ISIC_0056835.jpg,4,6,Basal Cell Carcinoma,False,87.02661444387923,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0056875.jpg,ISIC_0056875.jpg,4,4,Basal Cell Carcinoma,True,89.78880104695605,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0057057.jpg,ISIC_0057057.jpg,4,4,Basal Cell Carcinoma,True,-88.2414634696703,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0057058.jpg,ISIC_0057058.jpg,4,4,Basal Cell Carcinoma,True,89.89548230411245,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0057088.jpg,ISIC_0057088.jpg,4,6,Basal Cell Carcinoma,False,88.03245891118112,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0057190.jpg,ISIC_0057190.jpg,4,4,Basal Cell Carcinoma,True,84.4942467557747,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0057195.jpg,ISIC_0057195.jpg,4,4,Basal Cell Carcinoma,True,79.02748195443229,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0057263.jpg,ISIC_0057263.jpg,4,4,Basal Cell Carcinoma,True,86.85181130961496,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0057300.jpg,ISIC_0057300.jpg,4,4,Basal Cell Carcinoma,True,79.76673773986965,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0057352.jpg,ISIC_0057352.jpg,4,6,Basal Cell Carcinoma,False,85.58757859246732,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0057359.jpg,ISIC_0057359.jpg,4,4,Basal Cell Carcinoma,True,87.4290072573094,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0057569.jpg,ISIC_0057569.jpg,4,4,Basal Cell Carcinoma,True,-88.71797930495146,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0057680.jpg,ISIC_0057680.jpg,4,4,Basal Cell Carcinoma,True,-87.368326577207,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0057805.jpg,ISIC_0057805.jpg,4,4,Basal Cell Carcinoma,True,87.19344091860015,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0057839.jpg,ISIC_0057839.jpg,4,4,Basal Cell Carcinoma,True,85.74245987479193,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0057853.jpg,ISIC_0057853.jpg,4,4,Basal Cell Carcinoma,True,88.36698222805155,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0057905.jpg,ISIC_0057905.jpg,4,4,Basal Cell Carcinoma,True,-88.16710745842518,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0058169.jpg,ISIC_0058169.jpg,4,4,Basal Cell Carcinoma,True,86.5590566904809,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0058309.jpg,ISIC_0058309.jpg,4,4,Basal Cell Carcinoma,True,85.14580154547858,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0058389.jpg,ISIC_0058389.jpg,4,4,Basal Cell Carcinoma,True,87.59003463519491,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0058434.jpg,ISIC_0058434.jpg,4,4,Basal Cell Carcinoma,True,89.17550166443304,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0058476.jpg,ISIC_0058476.jpg,4,4,Basal Cell Carcinoma,True,87.13172776821325,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0058555.jpg,ISIC_0058555.jpg,4,4,Basal Cell Carcinoma,True,89.77249867279664,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0058556.jpg,ISIC_0058556.jpg,4,4,Basal Cell Carcinoma,True,-83.30577859843065,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0058573.jpg,ISIC_0058573.jpg,4,4,Basal Cell Carcinoma,True,87.87264027902985,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0058678.jpg,ISIC_0058678.jpg,4,4,Basal Cell Carcinoma,True,80.69861877283844,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0058765.jpg,ISIC_0058765.jpg,4,4,Basal Cell Carcinoma,True,-78.48875039278789,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0058860.jpg,ISIC_0058860.jpg,4,4,Basal Cell Carcinoma,True,-89.04473552834425,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0058915.jpg,ISIC_0058915.jpg,4,4,Basal Cell Carcinoma,True,85.42439551321516,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0058984.jpg,ISIC_0058984.jpg,4,4,Basal Cell Carcinoma,True,-83.31280779107942,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0059033.jpg,ISIC_0059033.jpg,4,4,Basal Cell Carcinoma,True,89.05262771286955,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0059081.jpg,ISIC_0059081.jpg,4,4,Basal Cell Carcinoma,True,-89.29349542108204,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0059105.jpg,ISIC_0059105.jpg,4,4,Basal Cell Carcinoma,True,89.93487748635589,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0059121.jpg,ISIC_0059121.jpg,4,4,Basal Cell Carcinoma,True,87.35942487368361,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0059226.jpg,ISIC_0059226.jpg,4,4,Basal Cell Carcinoma,True,87.72855057518666,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0059243.jpg,ISIC_0059243.jpg,4,4,Basal Cell Carcinoma,True,89.37587858622426,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0059246.jpg,ISIC_0059246.jpg,4,4,Basal Cell Carcinoma,True,79.5265075900647,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0059306.jpg,ISIC_0059306.jpg,4,6,Basal Cell Carcinoma,False,79.90255947550423,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0059393.jpg,ISIC_0059393.jpg,4,4,Basal Cell Carcinoma,True,88.80244216186033,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0059447.jpg,ISIC_0059447.jpg,4,4,Basal Cell Carcinoma,True,88.23030026626785,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0059548.jpg,ISIC_0059548.jpg,4,4,Basal Cell Carcinoma,True,78.8002068432618,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0059577.jpg,ISIC_0059577.jpg,4,4,Basal Cell Carcinoma,True,88.90362320670627,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0059599.jpg,ISIC_0059599.jpg,4,4,Basal Cell Carcinoma,True,87.6428839897039,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0059682.jpg,ISIC_0059682.jpg,4,4,Basal Cell Carcinoma,True,72.65234549724781,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0059689.jpg,ISIC_0059689.jpg,4,4,Basal Cell Carcinoma,True,87.42897601457986,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0059771.jpg,ISIC_0059771.jpg,4,4,Basal Cell Carcinoma,True,88.131769995992,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0059806.jpg,ISIC_0059806.jpg,4,4,Basal Cell Carcinoma,True,86.06906935238258,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0059984.jpg,ISIC_0059984.jpg,4,4,Basal Cell Carcinoma,True,87.67744483926171,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0060007.jpg,ISIC_0060007.jpg,4,4,Basal Cell Carcinoma,True,84.33535093186148,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0060093.jpg,ISIC_0060093.jpg,4,4,Basal Cell Carcinoma,True,88.02364152989998,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0060119.jpg,ISIC_0060119.jpg,4,4,Basal Cell Carcinoma,True,88.42514439880183,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0060254.jpg,ISIC_0060254.jpg,4,4,Basal Cell Carcinoma,True,-89.74064806957723,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0060512.jpg,ISIC_0060512.jpg,4,4,Basal Cell Carcinoma,True,-87.07937468351598,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0060542.jpg,ISIC_0060542.jpg,4,4,Basal Cell Carcinoma,True,86.86275684141793,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0060576.jpg,ISIC_0060576.jpg,4,4,Basal Cell Carcinoma,True,84.64522995933032,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0060622.jpg,ISIC_0060622.jpg,4,4,Basal Cell Carcinoma,True,82.91298304905295,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0060640.jpg,ISIC_0060640.jpg,4,4,Basal Cell Carcinoma,True,88.4516861982473,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0060780.jpg,ISIC_0060780.jpg,4,4,Basal Cell Carcinoma,True,87.19924424754102,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0060859.jpg,ISIC_0060859.jpg,4,4,Basal Cell Carcinoma,True,88.12479222612137,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0060903.jpg,ISIC_0060903.jpg,4,4,Basal Cell Carcinoma,True,88.68714275296794,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0060990.jpg,ISIC_0060990.jpg,4,4,Basal Cell Carcinoma,True,-88.14031333444099,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0061035.jpg,ISIC_0061035.jpg,4,4,Basal Cell Carcinoma,True,89.73553345562702,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0061096.jpg,ISIC_0061096.jpg,4,4,Basal Cell Carcinoma,True,76.87922741825287,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0061135.jpg,ISIC_0061135.jpg,4,4,Basal Cell Carcinoma,True,75.41507561846214,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0061173.jpg,ISIC_0061173.jpg,4,4,Basal Cell Carcinoma,True,81.68201582981074,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0061213.jpg,ISIC_0061213.jpg,4,4,Basal Cell Carcinoma,True,84.36431133713485,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0061220.jpg,ISIC_0061220.jpg,4,4,Basal Cell Carcinoma,True,83.20804204648518,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0061309.jpg,ISIC_0061309.jpg,4,4,Basal Cell Carcinoma,True,88.06449888501453,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0061337.jpg,ISIC_0061337.jpg,4,4,Basal Cell Carcinoma,True,89.03944090616064,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0061341.jpg,ISIC_0061341.jpg,4,4,Basal Cell Carcinoma,True,-89.20798379541691,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0061738.jpg,ISIC_0061738.jpg,4,4,Basal Cell Carcinoma,True,-79.13765655791403,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0061979.jpg,ISIC_0061979.jpg,4,4,Basal Cell Carcinoma,True,62.736890500239724,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0062105.jpg,ISIC_0062105.jpg,4,4,Basal Cell Carcinoma,True,88.38950871047086,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0062271.jpg,ISIC_0062271.jpg,4,4,Basal Cell Carcinoma,True,87.48103077163661,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0062386.jpg,ISIC_0062386.jpg,4,4,Basal Cell Carcinoma,True,-88.40190298766143,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0062504.jpg,ISIC_0062504.jpg,4,6,Basal Cell Carcinoma,False,89.18775363397774,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0062527.jpg,ISIC_0062527.jpg,4,4,Basal Cell Carcinoma,True,86.99254605263367,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0062569.jpg,ISIC_0062569.jpg,4,4,Basal Cell Carcinoma,True,87.2078041052928,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0062623.jpg,ISIC_0062623.jpg,4,4,Basal Cell Carcinoma,True,86.1448361444059,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0062664.jpg,ISIC_0062664.jpg,4,4,Basal Cell Carcinoma,True,82.82534692348655,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0062666.jpg,ISIC_0062666.jpg,4,4,Basal Cell Carcinoma,True,-86.14905939028205,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0062682.jpg,ISIC_0062682.jpg,4,4,Basal Cell Carcinoma,True,-88.13282192515439,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0062685.jpg,ISIC_0062685.jpg,4,4,Basal Cell Carcinoma,True,88.93119100211692,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0062764.jpg,ISIC_0062764.jpg,4,4,Basal Cell Carcinoma,True,-87.57578448968378,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0062791.jpg,ISIC_0062791.jpg,4,4,Basal Cell Carcinoma,True,88.09204720664921,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0062799.jpg,ISIC_0062799.jpg,4,4,Basal Cell Carcinoma,True,86.94291895040196,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0062927.jpg,ISIC_0062927.jpg,4,4,Basal Cell Carcinoma,True,80.07949666272195,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0062962.jpg,ISIC_0062962.jpg,4,4,Basal Cell Carcinoma,True,87.5396447510726,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0062965.jpg,ISIC_0062965.jpg,4,4,Basal Cell Carcinoma,True,89.94804096938756,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0063074.jpg,ISIC_0063074.jpg,4,4,Basal Cell Carcinoma,True,-88.50732314143112,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0063097.jpg,ISIC_0063097.jpg,4,4,Basal Cell Carcinoma,True,86.20972018554386,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0063166.jpg,ISIC_0063166.jpg,4,4,Basal Cell Carcinoma,True,87.47702085871312,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0063192.jpg,ISIC_0063192.jpg,4,4,Basal Cell Carcinoma,True,89.62529863024137,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0063195.jpg,ISIC_0063195.jpg,4,4,Basal Cell Carcinoma,True,-87.89535248567124,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0063263.jpg,ISIC_0063263.jpg,4,4,Basal Cell Carcinoma,True,76.05070529118538,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0063265.jpg,ISIC_0063265.jpg,4,4,Basal Cell Carcinoma,True,87.47463350003505,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0063279.jpg,ISIC_0063279.jpg,4,4,Basal Cell Carcinoma,True,-87.51339591284018,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0063433.jpg,ISIC_0063433.jpg,4,4,Basal Cell Carcinoma,True,86.85748766146823,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0063546.jpg,ISIC_0063546.jpg,4,4,Basal Cell Carcinoma,True,88.18271651550856,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0063563.jpg,ISIC_0063563.jpg,4,4,Basal Cell Carcinoma,True,-84.63122268938002,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0063587.jpg,ISIC_0063587.jpg,4,4,Basal Cell Carcinoma,True,88.24740294542454,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0063612.jpg,ISIC_0063612.jpg,4,4,Basal Cell Carcinoma,True,76.69730319689371,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0063702.jpg,ISIC_0063702.jpg,4,4,Basal Cell Carcinoma,True,-89.21581315514074,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0063756.jpg,ISIC_0063756.jpg,4,4,Basal Cell Carcinoma,True,-83.01922704260306,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0063877.jpg,ISIC_0063877.jpg,4,4,Basal Cell Carcinoma,True,-81.8588616390093,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0063936.jpg,ISIC_0063936.jpg,4,4,Basal Cell Carcinoma,True,84.79638776201948,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0064013.jpg,ISIC_0064013.jpg,4,4,Basal Cell Carcinoma,True,86.08799443558948,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0064293.jpg,ISIC_0064293.jpg,4,4,Basal Cell Carcinoma,True,67.79140909934529,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0064300.jpg,ISIC_0064300.jpg,4,4,Basal Cell Carcinoma,True,89.73006485832497,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0064354.jpg,ISIC_0064354.jpg,4,4,Basal Cell Carcinoma,True,88.40285539741016,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0064470.jpg,ISIC_0064470.jpg,4,4,Basal Cell Carcinoma,True,-85.86110964015242,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0064510.jpg,ISIC_0064510.jpg,4,4,Basal Cell Carcinoma,True,-88.83194255848504,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0064599.jpg,ISIC_0064599.jpg,4,4,Basal Cell Carcinoma,True,79.92443328977673,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0064642.jpg,ISIC_0064642.jpg,4,4,Basal Cell Carcinoma,True,87.49102543291335,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0064725.jpg,ISIC_0064725.jpg,4,4,Basal Cell Carcinoma,True,-87.49921697695825,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0065044.jpg,ISIC_0065044.jpg,4,4,Basal Cell Carcinoma,True,-82.38365445191327,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0065056.jpg,ISIC_0065056.jpg,4,4,Basal Cell Carcinoma,True,88.99234891209574,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0065116.jpg,ISIC_0065116.jpg,4,4,Basal Cell Carcinoma,True,89.2673602349083,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0065178.jpg,ISIC_0065178.jpg,4,4,Basal Cell Carcinoma,True,87.73917475851707,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0065190.jpg,ISIC_0065190.jpg,4,4,Basal Cell Carcinoma,True,89.45378086738465,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0065314.jpg,ISIC_0065314.jpg,4,4,Basal Cell Carcinoma,True,65.19666240180263,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0065334.jpg,ISIC_0065334.jpg,4,4,Basal Cell Carcinoma,True,87.38378190073412,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0065397.jpg,ISIC_0065397.jpg,4,4,Basal Cell Carcinoma,True,89.08657785791955,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0065540.jpg,ISIC_0065540.jpg,4,4,Basal Cell Carcinoma,True,-79.64406397173907,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0065648.jpg,ISIC_0065648.jpg,4,4,Basal Cell Carcinoma,True,87.64812205427144,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0065666.jpg,ISIC_0065666.jpg,4,4,Basal Cell Carcinoma,True,68.2324806802935,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0065790.jpg,ISIC_0065790.jpg,4,4,Basal Cell Carcinoma,True,73.73812073535723,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0065849.jpg,ISIC_0065849.jpg,4,4,Basal Cell Carcinoma,True,74.16998959068616,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0065874.jpg,ISIC_0065874.jpg,4,4,Basal Cell Carcinoma,True,86.38266644502673,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0066010.jpg,ISIC_0066010.jpg,4,4,Basal Cell Carcinoma,True,-87.76392910941759,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0066144.jpg,ISIC_0066144.jpg,4,4,Basal Cell Carcinoma,True,-82.20988269287335,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0066206.jpg,ISIC_0066206.jpg,4,4,Basal Cell Carcinoma,True,66.90656695836451,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0066431.jpg,ISIC_0066431.jpg,4,4,Basal Cell Carcinoma,True,-87.78266630423613,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0066473.jpg,ISIC_0066473.jpg,4,4,Basal Cell Carcinoma,True,87.10415998537994,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0066525.jpg,ISIC_0066525.jpg,4,4,Basal Cell Carcinoma,True,-86.47029738215855,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0066544.jpg,ISIC_0066544.jpg,4,4,Basal Cell Carcinoma,True,86.08023751480103,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0066598.jpg,ISIC_0066598.jpg,4,4,Basal Cell Carcinoma,True,82.22794552141367,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0066702.jpg,ISIC_0066702.jpg,4,4,Basal Cell Carcinoma,True,88.76870945920895,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0066820.jpg,ISIC_0066820.jpg,4,4,Basal Cell Carcinoma,True,83.25727789994663,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0066830.jpg,ISIC_0066830.jpg,4,4,Basal Cell Carcinoma,True,78.27031931953638,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0066894.jpg,ISIC_0066894.jpg,4,4,Basal Cell Carcinoma,True,85.35834807315086,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0066924.jpg,ISIC_0066924.jpg,4,4,Basal Cell Carcinoma,True,84.47825621723305,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0066940.jpg,ISIC_0066940.jpg,4,4,Basal Cell Carcinoma,True,85.4668515278503,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0067042.jpg,ISIC_0067042.jpg,4,4,Basal Cell Carcinoma,True,79.96867896353584,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0067241.jpg,ISIC_0067241.jpg,4,4,Basal Cell Carcinoma,True,88.54296913948814,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0067265.jpg,ISIC_0067265.jpg,4,4,Basal Cell Carcinoma,True,89.81447860370336,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0067278.jpg,ISIC_0067278.jpg,4,4,Basal Cell Carcinoma,True,-87.79033201587981,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0067291.jpg,ISIC_0067291.jpg,4,4,Basal Cell Carcinoma,True,82.41496778203171,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0067426.jpg,ISIC_0067426.jpg,4,4,Basal Cell Carcinoma,True,-89.5837799230124,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0067668.jpg,ISIC_0067668.jpg,4,4,Basal Cell Carcinoma,True,89.33416170748765,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0067869.jpg,ISIC_0067869.jpg,4,4,Basal Cell Carcinoma,True,84.47853839483777,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0068101.jpg,ISIC_0068101.jpg,4,4,Basal Cell Carcinoma,True,87.88543966508976,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0068287.jpg,ISIC_0068287.jpg,4,4,Basal Cell Carcinoma,True,56.264388939094296,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0068536.jpg,ISIC_0068536.jpg,4,4,Basal Cell Carcinoma,True,87.01990918989341,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0068598.jpg,ISIC_0068598.jpg,4,4,Basal Cell Carcinoma,True,82.82306021093197,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0068637.jpg,ISIC_0068637.jpg,4,4,Basal Cell Carcinoma,True,88.22952893772994,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0068869.jpg,ISIC_0068869.jpg,4,4,Basal Cell Carcinoma,True,-86.50329803776962,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0068980.jpg,ISIC_0068980.jpg,4,4,Basal Cell Carcinoma,True,74.76972726989891,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0068985.jpg,ISIC_0068985.jpg,4,4,Basal Cell Carcinoma,True,-88.42263110705196,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0069052.jpg,ISIC_0069052.jpg,4,4,Basal Cell Carcinoma,True,82.71814567452807,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0069206.jpg,ISIC_0069206.jpg,4,4,Basal Cell Carcinoma,True,83.96720725116516,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0069522.jpg,ISIC_0069522.jpg,4,4,Basal Cell Carcinoma,True,87.75358481002026,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0069604.jpg,ISIC_0069604.jpg,4,4,Basal Cell Carcinoma,True,85.01845334033652,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0069650.jpg,ISIC_0069650.jpg,4,4,Basal Cell Carcinoma,True,-89.3134653046421,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0069703.jpg,ISIC_0069703.jpg,4,4,Basal Cell Carcinoma,True,89.00438603625909,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0069709.jpg,ISIC_0069709.jpg,4,4,Basal Cell Carcinoma,True,88.55942948465587,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0069724.jpg,ISIC_0069724.jpg,4,4,Basal Cell Carcinoma,True,89.85533354663707,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0069812.jpg,ISIC_0069812.jpg,4,4,Basal Cell Carcinoma,True,-85.54101275619037,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0069886.jpg,ISIC_0069886.jpg,4,4,Basal Cell Carcinoma,True,87.7219261740379,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0069888.jpg,ISIC_0069888.jpg,4,4,Basal Cell Carcinoma,True,-87.39398371217814,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0069915.jpg,ISIC_0069915.jpg,4,6,Basal Cell Carcinoma,False,84.53339636490287,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070154.jpg,ISIC_0070154.jpg,4,4,Basal Cell Carcinoma,True,88.87808255932848,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070231.jpg,ISIC_0070231.jpg,4,4,Basal Cell Carcinoma,True,79.53689409402432,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070233.jpg,ISIC_0070233.jpg,4,4,Basal Cell Carcinoma,True,85.53761734072913,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070345.jpg,ISIC_0070345.jpg,4,4,Basal Cell Carcinoma,True,-89.41003404638404,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070461.jpg,ISIC_0070461.jpg,4,4,Basal Cell Carcinoma,True,89.78194152764517,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070529.jpg,ISIC_0070529.jpg,4,4,Basal Cell Carcinoma,True,89.1433811270566,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070539.jpg,ISIC_0070539.jpg,4,4,Basal Cell Carcinoma,True,80.39291501759774,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070541.jpg,ISIC_0070541.jpg,4,4,Basal Cell Carcinoma,True,77.119692998458,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070656.jpg,ISIC_0070656.jpg,4,4,Basal Cell Carcinoma,True,-89.95092275502918,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070661.jpg,ISIC_0070661.jpg,4,4,Basal Cell Carcinoma,True,-89.87330744493104,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070663.jpg,ISIC_0070663.jpg,4,4,Basal Cell Carcinoma,True,84.18415775734016,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070700.jpg,ISIC_0070700.jpg,4,4,Basal Cell Carcinoma,True,83.68414191296633,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070706.jpg,ISIC_0070706.jpg,4,4,Basal Cell Carcinoma,True,87.15544456939064,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070714.jpg,ISIC_0070714.jpg,4,4,Basal Cell Carcinoma,True,87.80879107585581,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070728.jpg,ISIC_0070728.jpg,4,4,Basal Cell Carcinoma,True,-89.99271945816173,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070761.jpg,ISIC_0070761.jpg,4,4,Basal Cell Carcinoma,True,87.60283781128376,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070789.jpg,ISIC_0070789.jpg,4,4,Basal Cell Carcinoma,True,83.34922169562847,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070836.jpg,ISIC_0070836.jpg,4,4,Basal Cell Carcinoma,True,81.35968729966426,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070853.jpg,ISIC_0070853.jpg,4,4,Basal Cell Carcinoma,True,87.32409262314071,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070873.jpg,ISIC_0070873.jpg,4,4,Basal Cell Carcinoma,True,80.6171890423305,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0070953.jpg,ISIC_0070953.jpg,4,4,Basal Cell Carcinoma,True,86.79873715137097,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0071029.jpg,ISIC_0071029.jpg,4,4,Basal Cell Carcinoma,True,82.88030884833081,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0071113.jpg,ISIC_0071113.jpg,4,4,Basal Cell Carcinoma,True,82.500658608767,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0071172.jpg,ISIC_0071172.jpg,4,4,Basal Cell Carcinoma,True,87.25182506066199,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0071400.jpg,ISIC_0071400.jpg,4,4,Basal Cell Carcinoma,True,84.4156895921453,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0071416.jpg,ISIC_0071416.jpg,4,4,Basal Cell Carcinoma,True,78.8609482491283,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0071598.jpg,ISIC_0071598.jpg,4,4,Basal Cell Carcinoma,True,-84.94452641588778,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0071665.jpg,ISIC_0071665.jpg,4,4,Basal Cell Carcinoma,True,-82.94728704279724,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0071670.jpg,ISIC_0071670.jpg,4,4,Basal Cell Carcinoma,True,-88.68770441479506,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0071692.jpg,ISIC_0071692.jpg,4,4,Basal Cell Carcinoma,True,88.19647273329159,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0071730.jpg,ISIC_0071730.jpg,4,4,Basal Cell Carcinoma,True,-87.51485939741089,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0071794.jpg,ISIC_0071794.jpg,4,4,Basal Cell Carcinoma,True,82.35582941575214,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0071867.jpg,ISIC_0071867.jpg,4,4,Basal Cell Carcinoma,True,-88.96481548340299,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0071890.jpg,ISIC_0071890.jpg,4,4,Basal Cell Carcinoma,True,87.08028722862693,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0071907.jpg,ISIC_0071907.jpg,4,6,Basal Cell Carcinoma,False,88.3990703770107,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0072108.jpg,ISIC_0072108.jpg,4,4,Basal Cell Carcinoma,True,89.39126325037456,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0072131.jpg,ISIC_0072131.jpg,4,4,Basal Cell Carcinoma,True,-88.01895994070904,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0072134.jpg,ISIC_0072134.jpg,4,4,Basal Cell Carcinoma,True,64.33959161082397,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0072247.jpg,ISIC_0072247.jpg,4,4,Basal Cell Carcinoma,True,88.14946352123907,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0072260.jpg,ISIC_0072260.jpg,4,4,Basal Cell Carcinoma,True,-89.79947774668723,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0072356.jpg,ISIC_0072356.jpg,4,4,Basal Cell Carcinoma,True,87.89766010395277,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0072431.jpg,ISIC_0072431.jpg,4,4,Basal Cell Carcinoma,True,78.19271367585837,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0072450.jpg,ISIC_0072450.jpg,4,4,Basal Cell Carcinoma,True,84.32232134798238,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0072477.jpg,ISIC_0072477.jpg,4,4,Basal Cell Carcinoma,True,83.21095382290781,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0072548.jpg,ISIC_0072548.jpg,4,4,Basal Cell Carcinoma,True,89.53499125800924,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0072640.jpg,ISIC_0072640.jpg,4,4,Basal Cell Carcinoma,True,85.9857067944894,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0072660.jpg,ISIC_0072660.jpg,4,4,Basal Cell Carcinoma,True,74.50307802549649,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0072663.jpg,ISIC_0072663.jpg,4,4,Basal Cell Carcinoma,True,88.97157638426512,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0072673.jpg,ISIC_0072673.jpg,4,4,Basal Cell Carcinoma,True,89.1527134655265,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0072744.jpg,ISIC_0072744.jpg,4,4,Basal Cell Carcinoma,True,87.35598277273985,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0072761.jpg,ISIC_0072761.jpg,4,4,Basal Cell Carcinoma,True,81.93291556780433,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0072772.jpg,ISIC_0072772.jpg,4,4,Basal Cell Carcinoma,True,88.9223830575757,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0072859.jpg,ISIC_0072859.jpg,4,4,Basal Cell Carcinoma,True,82.14974204565848,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0072900.jpg,ISIC_0072900.jpg,4,4,Basal Cell Carcinoma,True,88.24011766003628,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0072907.jpg,ISIC_0072907.jpg,4,4,Basal Cell Carcinoma,True,87.51969607534356,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0073081.jpg,ISIC_0073081.jpg,4,4,Basal Cell Carcinoma,True,85.2705643491117,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0073161.jpg,ISIC_0073161.jpg,4,4,Basal Cell Carcinoma,True,-88.18410290614436,dark,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0073170.jpg,ISIC_0073170.jpg,4,4,Basal Cell Carcinoma,True,82.33340807270568,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0073225.jpg,ISIC_0073225.jpg,4,4,Basal Cell Carcinoma,True,89.05195856211807,very_light,BCC
+/content/data_split/test/4. Basal Cell Carcinoma (BCC) 3323/ISIC_0073247.jpg,ISIC_0073247.jpg,4,4,Basal Cell Carcinoma,True,-88.6466460510272,dark,BCC
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0025804.jpg,ISIC_0025804.jpg,6,5,Benign Keratosis,False,74.93515388360144,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0025867.jpg,ISIC_0025867.jpg,6,6,Benign Keratosis,True,88.41765838365575,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0025883.jpg,ISIC_0025883.jpg,6,6,Benign Keratosis,True,-88.4654758526424,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0025885.jpg,ISIC_0025885.jpg,6,6,Benign Keratosis,True,85.59244641649143,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0026248.jpg,ISIC_0026248.jpg,6,6,Benign Keratosis,True,86.9412321641619,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0026290.jpg,ISIC_0026290.jpg,6,6,Benign Keratosis,True,-88.49476694159074,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0026365.jpg,ISIC_0026365.jpg,6,6,Benign Keratosis,True,-87.67087936114065,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0026444.jpg,ISIC_0026444.jpg,6,6,Benign Keratosis,True,-87.43033566209161,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0026446.jpg,ISIC_0026446.jpg,6,6,Benign Keratosis,True,80.54860879309483,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0026524.jpg,ISIC_0026524.jpg,6,6,Benign Keratosis,True,-87.30189054016597,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0026538.jpg,ISIC_0026538.jpg,6,6,Benign Keratosis,True,-87.67813110856977,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0026606.jpg,ISIC_0026606.jpg,6,5,Benign Keratosis,False,89.54294014509436,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0026637.jpg,ISIC_0026637.jpg,6,6,Benign Keratosis,True,89.19512223768017,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0026827.jpg,ISIC_0026827.jpg,6,6,Benign Keratosis,True,-87.78038313078447,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0026844.jpg,ISIC_0026844.jpg,6,5,Benign Keratosis,False,-87.83772853948024,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0026895.jpg,ISIC_0026895.jpg,6,5,Benign Keratosis,False,88.74742658023526,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0026967.jpg,ISIC_0026967.jpg,6,6,Benign Keratosis,True,78.20838089369755,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0027027.jpg,ISIC_0027027.jpg,6,6,Benign Keratosis,True,84.99143970160785,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0027041.jpg,ISIC_0027041.jpg,6,6,Benign Keratosis,True,79.20315028432196,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0027139.jpg,ISIC_0027139.jpg,6,2,Benign Keratosis,False,84.65132766959152,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0027192.jpg,ISIC_0027192.jpg,6,6,Benign Keratosis,True,88.12356783034471,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0027219.jpg,ISIC_0027219.jpg,6,6,Benign Keratosis,True,-85.01046896374832,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0027374.jpg,ISIC_0027374.jpg,6,6,Benign Keratosis,True,88.13479583324964,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0027419.jpg,ISIC_0027419.jpg,6,6,Benign Keratosis,True,-88.71871616629723,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0027451.jpg,ISIC_0027451.jpg,6,6,Benign Keratosis,True,87.98061764389335,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0027606.jpg,ISIC_0027606.jpg,6,6,Benign Keratosis,True,86.18306343356028,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0027739.jpg,ISIC_0027739.jpg,6,5,Benign Keratosis,False,-84.5942456624718,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0027811.jpg,ISIC_0027811.jpg,6,6,Benign Keratosis,True,87.30930774600346,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0027828.jpg,ISIC_0027828.jpg,6,6,Benign Keratosis,True,-83.73113971972354,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0027953.jpg,ISIC_0027953.jpg,6,6,Benign Keratosis,True,89.2189034589796,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0027954.jpg,ISIC_0027954.jpg,6,6,Benign Keratosis,True,84.31971087696274,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0027960.jpg,ISIC_0027960.jpg,6,6,Benign Keratosis,True,-89.4568853442905,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0027991.jpg,ISIC_0027991.jpg,6,6,Benign Keratosis,True,85.01801230877487,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0027996.jpg,ISIC_0027996.jpg,6,6,Benign Keratosis,True,82.55744899576555,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0028052.jpg,ISIC_0028052.jpg,6,6,Benign Keratosis,True,-87.73365114334291,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0028120.jpg,ISIC_0028120.jpg,6,5,Benign Keratosis,False,-87.88186766155651,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0028236.jpg,ISIC_0028236.jpg,6,5,Benign Keratosis,False,88.20930617397671,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0028336.jpg,ISIC_0028336.jpg,6,4,Benign Keratosis,False,89.71123276563743,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0028354.jpg,ISIC_0028354.jpg,6,6,Benign Keratosis,True,84.1574377718486,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0028640.jpg,ISIC_0028640.jpg,6,6,Benign Keratosis,True,-88.00792737720217,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0028662.jpg,ISIC_0028662.jpg,6,6,Benign Keratosis,True,-88.89151500006354,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0028681.jpg,ISIC_0028681.jpg,6,6,Benign Keratosis,True,85.01755172938309,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0028846.jpg,ISIC_0028846.jpg,6,6,Benign Keratosis,True,-88.57085166001251,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0028876.jpg,ISIC_0028876.jpg,6,6,Benign Keratosis,True,-89.00417591130541,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0029070.jpg,ISIC_0029070.jpg,6,6,Benign Keratosis,True,88.1244586212815,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0029101.jpg,ISIC_0029101.jpg,6,4,Benign Keratosis,False,-88.08359763446747,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0029108.jpg,ISIC_0029108.jpg,6,6,Benign Keratosis,True,-85.73915066353334,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0029126.jpg,ISIC_0029126.jpg,6,4,Benign Keratosis,False,85.3572491375342,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0029206.jpg,ISIC_0029206.jpg,6,6,Benign Keratosis,True,84.81733592098108,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0029251.jpg,ISIC_0029251.jpg,6,6,Benign Keratosis,True,84.77851125972262,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0029302.jpg,ISIC_0029302.jpg,6,6,Benign Keratosis,True,-88.07513727175811,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0029340.jpg,ISIC_0029340.jpg,6,6,Benign Keratosis,True,86.57992315908089,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0029527.jpg,ISIC_0029527.jpg,6,6,Benign Keratosis,True,-89.93119482763335,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0029731.jpg,ISIC_0029731.jpg,6,4,Benign Keratosis,False,80.92806442668262,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0029791.jpg,ISIC_0029791.jpg,6,6,Benign Keratosis,True,88.66482666536551,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0030007.jpg,ISIC_0030007.jpg,6,6,Benign Keratosis,True,-86.55262165092971,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0030123.jpg,ISIC_0030123.jpg,6,6,Benign Keratosis,True,-88.04038885218596,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0030227.jpg,ISIC_0030227.jpg,6,4,Benign Keratosis,False,86.93291063379634,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0030231.jpg,ISIC_0030231.jpg,6,6,Benign Keratosis,True,85.48467033410238,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0030241.jpg,ISIC_0030241.jpg,6,6,Benign Keratosis,True,87.20423792488488,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0030323.jpg,ISIC_0030323.jpg,6,6,Benign Keratosis,True,89.856647682672,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0030396.jpg,ISIC_0030396.jpg,6,6,Benign Keratosis,True,-87.2315783684217,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0030649.jpg,ISIC_0030649.jpg,6,6,Benign Keratosis,True,86.39575904118786,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0030661.jpg,ISIC_0030661.jpg,6,5,Benign Keratosis,False,88.61709831206684,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0030677.jpg,ISIC_0030677.jpg,6,6,Benign Keratosis,True,-89.2662864193798,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0030700.jpg,ISIC_0030700.jpg,6,6,Benign Keratosis,True,88.93430971777867,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0030721.jpg,ISIC_0030721.jpg,6,6,Benign Keratosis,True,-87.79926465521984,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0030744.jpg,ISIC_0030744.jpg,6,6,Benign Keratosis,True,88.11928232400723,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0030801.jpg,ISIC_0030801.jpg,6,5,Benign Keratosis,False,89.6892873478805,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0031029.jpg,ISIC_0031029.jpg,6,6,Benign Keratosis,True,89.64013816704698,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0031459.jpg,ISIC_0031459.jpg,6,5,Benign Keratosis,False,88.92571559822984,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0031584.jpg,ISIC_0031584.jpg,6,4,Benign Keratosis,False,-87.36178711213779,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0031825.jpg,ISIC_0031825.jpg,6,6,Benign Keratosis,True,-85.89970857484599,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0031831.jpg,ISIC_0031831.jpg,6,6,Benign Keratosis,True,-88.08885085845756,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0031853.jpg,ISIC_0031853.jpg,6,6,Benign Keratosis,True,-85.47414032219785,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0032116.jpg,ISIC_0032116.jpg,6,6,Benign Keratosis,True,86.25893490727813,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0032460.jpg,ISIC_0032460.jpg,6,6,Benign Keratosis,True,82.7502922411488,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0032508.jpg,ISIC_0032508.jpg,6,6,Benign Keratosis,True,87.38676318684684,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0032556.jpg,ISIC_0032556.jpg,6,6,Benign Keratosis,True,-89.29642882493864,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0032654.jpg,ISIC_0032654.jpg,6,6,Benign Keratosis,True,89.88803295162893,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0032688.jpg,ISIC_0032688.jpg,6,6,Benign Keratosis,True,89.89861644825237,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0032694.jpg,ISIC_0032694.jpg,6,6,Benign Keratosis,True,88.26019754128089,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0032863.jpg,ISIC_0032863.jpg,6,6,Benign Keratosis,True,-87.14423889748835,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0032898.jpg,ISIC_0032898.jpg,6,6,Benign Keratosis,True,-87.81574545974794,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0032949.jpg,ISIC_0032949.jpg,6,6,Benign Keratosis,True,-87.8175059160044,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0033400.jpg,ISIC_0033400.jpg,6,6,Benign Keratosis,True,-88.96323918214776,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0033446.jpg,ISIC_0033446.jpg,6,6,Benign Keratosis,True,87.29716709740758,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0033509.jpg,ISIC_0033509.jpg,6,6,Benign Keratosis,True,88.199416918332,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0033576.jpg,ISIC_0033576.jpg,6,6,Benign Keratosis,True,89.264484298106,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0033601.jpg,ISIC_0033601.jpg,6,6,Benign Keratosis,True,-85.94367696999407,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0033606.jpg,ISIC_0033606.jpg,6,6,Benign Keratosis,True,-87.86978586863682,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0033685.jpg,ISIC_0033685.jpg,6,6,Benign Keratosis,True,89.15040043736855,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0033716.jpg,ISIC_0033716.jpg,6,4,Benign Keratosis,False,87.99014202470536,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0033736.jpg,ISIC_0033736.jpg,6,6,Benign Keratosis,True,-86.96877690968675,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0033908.jpg,ISIC_0033908.jpg,6,6,Benign Keratosis,True,-86.37044724795088,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0033910.jpg,ISIC_0033910.jpg,6,4,Benign Keratosis,False,-84.97939400523461,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0034031.jpg,ISIC_0034031.jpg,6,6,Benign Keratosis,True,-87.97867730938677,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0034201.jpg,ISIC_0034201.jpg,6,6,Benign Keratosis,True,86.9203985374339,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0053467.jpg,ISIC_0053467.jpg,6,6,Benign Keratosis,True,88.65402335377577,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0053523.jpg,ISIC_0053523.jpg,6,6,Benign Keratosis,True,89.62905164370392,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0053930.jpg,ISIC_0053930.jpg,6,6,Benign Keratosis,True,-89.68911429646633,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0054019.jpg,ISIC_0054019.jpg,6,6,Benign Keratosis,True,64.4366859374057,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0054219.jpg,ISIC_0054219.jpg,6,6,Benign Keratosis,True,89.99033706108081,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0054833.jpg,ISIC_0054833.jpg,6,4,Benign Keratosis,False,89.01896679506378,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0055292.jpg,ISIC_0055292.jpg,6,6,Benign Keratosis,True,89.97782959638118,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0055569.jpg,ISIC_0055569.jpg,6,6,Benign Keratosis,True,81.66140812431304,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0055800.jpg,ISIC_0055800.jpg,6,6,Benign Keratosis,True,-88.04985564904273,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0055955.jpg,ISIC_0055955.jpg,6,6,Benign Keratosis,True,-89.86695379464666,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0056179.jpg,ISIC_0056179.jpg,6,4,Benign Keratosis,False,-89.83849031692978,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0056312.jpg,ISIC_0056312.jpg,6,4,Benign Keratosis,False,-29.395174716455905,tan,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0056654.jpg,ISIC_0056654.jpg,6,6,Benign Keratosis,True,79.9246402909272,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0056687.jpg,ISIC_0056687.jpg,6,6,Benign Keratosis,True,79.63320939411066,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0056759.jpg,ISIC_0056759.jpg,6,6,Benign Keratosis,True,-86.48002730493695,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0056882.jpg,ISIC_0056882.jpg,6,6,Benign Keratosis,True,82.05911977398884,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0057062.jpg,ISIC_0057062.jpg,6,6,Benign Keratosis,True,89.05492201966584,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0057222.jpg,ISIC_0057222.jpg,6,6,Benign Keratosis,True,-87.47854125295703,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0057248.jpg,ISIC_0057248.jpg,6,6,Benign Keratosis,True,84.04811132940584,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0057446.jpg,ISIC_0057446.jpg,6,6,Benign Keratosis,True,85.45958683251945,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0057580.jpg,ISIC_0057580.jpg,6,6,Benign Keratosis,True,-89.83240928753138,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0057646.jpg,ISIC_0057646.jpg,6,6,Benign Keratosis,True,-87.82125601645814,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0057990.jpg,ISIC_0057990.jpg,6,6,Benign Keratosis,True,-87.57451704363262,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0058041.jpg,ISIC_0058041.jpg,6,6,Benign Keratosis,True,79.60100579919023,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0058113.jpg,ISIC_0058113.jpg,6,6,Benign Keratosis,True,85.7726421382506,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0058277.jpg,ISIC_0058277.jpg,6,6,Benign Keratosis,True,88.08895199935289,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0058449.jpg,ISIC_0058449.jpg,6,6,Benign Keratosis,True,77.35266370124417,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0058847.jpg,ISIC_0058847.jpg,6,6,Benign Keratosis,True,86.42157249294631,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0058888.jpg,ISIC_0058888.jpg,6,4,Benign Keratosis,False,89.36607549625901,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0059035.jpg,ISIC_0059035.jpg,6,6,Benign Keratosis,True,87.59375490578104,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0059192.jpg,ISIC_0059192.jpg,6,6,Benign Keratosis,True,83.2814338860119,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0059333.jpg,ISIC_0059333.jpg,6,6,Benign Keratosis,True,77.04531583667453,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0059378.jpg,ISIC_0059378.jpg,6,6,Benign Keratosis,True,-89.04033012508869,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0059455.jpg,ISIC_0059455.jpg,6,6,Benign Keratosis,True,86.81617623795643,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0059480.jpg,ISIC_0059480.jpg,6,6,Benign Keratosis,True,89.55707164421996,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0059678.jpg,ISIC_0059678.jpg,6,6,Benign Keratosis,True,88.19874389545383,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0059693.jpg,ISIC_0059693.jpg,6,6,Benign Keratosis,True,78.3488373072649,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0059695.jpg,ISIC_0059695.jpg,6,6,Benign Keratosis,True,89.52989588474608,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0059935.jpg,ISIC_0059935.jpg,6,6,Benign Keratosis,True,-89.25759666598914,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0060105.jpg,ISIC_0060105.jpg,6,6,Benign Keratosis,True,26.823699136140227,intermediate,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0060697.jpg,ISIC_0060697.jpg,6,6,Benign Keratosis,True,83.86930538847834,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0060720.jpg,ISIC_0060720.jpg,6,6,Benign Keratosis,True,85.60909598026346,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0060808.jpg,ISIC_0060808.jpg,6,6,Benign Keratosis,True,-89.7370728720807,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0061321.jpg,ISIC_0061321.jpg,6,6,Benign Keratosis,True,85.79411318895446,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0061610.jpg,ISIC_0061610.jpg,6,6,Benign Keratosis,True,77.17153213730515,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0061752.jpg,ISIC_0061752.jpg,6,6,Benign Keratosis,True,88.52127817903039,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0061917.jpg,ISIC_0061917.jpg,6,6,Benign Keratosis,True,78.7669607476116,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0061985.jpg,ISIC_0061985.jpg,6,6,Benign Keratosis,True,88.16625592380028,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0062047.jpg,ISIC_0062047.jpg,6,6,Benign Keratosis,True,89.10003844474507,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0062110.jpg,ISIC_0062110.jpg,6,6,Benign Keratosis,True,85.18468731398139,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0062369.jpg,ISIC_0062369.jpg,6,6,Benign Keratosis,True,-89.949099108416,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0062587.jpg,ISIC_0062587.jpg,6,6,Benign Keratosis,True,89.67863991932686,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0062968.jpg,ISIC_0062968.jpg,6,6,Benign Keratosis,True,89.6526052511127,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0063014.jpg,ISIC_0063014.jpg,6,6,Benign Keratosis,True,80.52460798079312,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0063163.jpg,ISIC_0063163.jpg,6,6,Benign Keratosis,True,85.79767432649588,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0063304.jpg,ISIC_0063304.jpg,6,6,Benign Keratosis,True,87.46782107842728,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0063368.jpg,ISIC_0063368.jpg,6,6,Benign Keratosis,True,83.63005962164513,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0063716.jpg,ISIC_0063716.jpg,6,6,Benign Keratosis,True,86.26163247015337,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0063718.jpg,ISIC_0063718.jpg,6,6,Benign Keratosis,True,85.93633141640477,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0063828.jpg,ISIC_0063828.jpg,6,6,Benign Keratosis,True,84.80827178928728,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0063888.jpg,ISIC_0063888.jpg,6,6,Benign Keratosis,True,80.13372057572204,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0064188.jpg,ISIC_0064188.jpg,6,6,Benign Keratosis,True,86.34296532784764,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0064285.jpg,ISIC_0064285.jpg,6,6,Benign Keratosis,True,87.46782107842728,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0064586.jpg,ISIC_0064586.jpg,6,6,Benign Keratosis,True,88.3881129414168,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0064678.jpg,ISIC_0064678.jpg,6,6,Benign Keratosis,True,81.59066557948847,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0064883.jpg,ISIC_0064883.jpg,6,6,Benign Keratosis,True,83.34171793859697,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0065087.jpg,ISIC_0065087.jpg,6,6,Benign Keratosis,True,85.5558270286944,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0065355.jpg,ISIC_0065355.jpg,6,6,Benign Keratosis,True,87.19955212051096,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0065389.jpg,ISIC_0065389.jpg,6,6,Benign Keratosis,True,88.88481835522022,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0065588.jpg,ISIC_0065588.jpg,6,6,Benign Keratosis,True,88.98981662032377,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0065901.jpg,ISIC_0065901.jpg,6,6,Benign Keratosis,True,89.0591351190522,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0066162.jpg,ISIC_0066162.jpg,6,6,Benign Keratosis,True,52.13793745441778,light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0066764.jpg,ISIC_0066764.jpg,6,6,Benign Keratosis,True,84.8885316401334,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0066810.jpg,ISIC_0066810.jpg,6,6,Benign Keratosis,True,89.61282701039572,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0066896.jpg,ISIC_0066896.jpg,6,6,Benign Keratosis,True,89.30384099911971,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0066911.jpg,ISIC_0066911.jpg,6,6,Benign Keratosis,True,-86.64300358966828,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0066978.jpg,ISIC_0066978.jpg,6,6,Benign Keratosis,True,85.20808042700126,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0067035.jpg,ISIC_0067035.jpg,6,6,Benign Keratosis,True,-86.92202564397093,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0067136.jpg,ISIC_0067136.jpg,6,6,Benign Keratosis,True,82.17983861487602,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0067692.jpg,ISIC_0067692.jpg,6,6,Benign Keratosis,True,88.53183187012668,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0067726.jpg,ISIC_0067726.jpg,6,6,Benign Keratosis,True,87.93571062099987,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0067740.jpg,ISIC_0067740.jpg,6,4,Benign Keratosis,False,88.19537993671872,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0067882.jpg,ISIC_0067882.jpg,6,6,Benign Keratosis,True,-82.04266224753556,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0068214.jpg,ISIC_0068214.jpg,6,6,Benign Keratosis,True,88.11182902011667,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0068312.jpg,ISIC_0068312.jpg,6,6,Benign Keratosis,True,89.95487728920074,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0068365.jpg,ISIC_0068365.jpg,6,4,Benign Keratosis,False,89.06130182824486,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0068978.jpg,ISIC_0068978.jpg,6,6,Benign Keratosis,True,85.67604803706128,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0069016.jpg,ISIC_0069016.jpg,6,6,Benign Keratosis,True,81.8112842620126,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0069099.jpg,ISIC_0069099.jpg,6,6,Benign Keratosis,True,88.82202610719519,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0069129.jpg,ISIC_0069129.jpg,6,6,Benign Keratosis,True,85.50968298340692,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0069159.jpg,ISIC_0069159.jpg,6,6,Benign Keratosis,True,70.59305328360072,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0069516.jpg,ISIC_0069516.jpg,6,6,Benign Keratosis,True,88.4018174381463,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0069658.jpg,ISIC_0069658.jpg,6,4,Benign Keratosis,False,84.03838618593264,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0069682.jpg,ISIC_0069682.jpg,6,6,Benign Keratosis,True,88.07369550023242,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0069758.jpg,ISIC_0069758.jpg,6,6,Benign Keratosis,True,82.12440457804051,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0069853.jpg,ISIC_0069853.jpg,6,6,Benign Keratosis,True,86.60584599191357,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0070261.jpg,ISIC_0070261.jpg,6,6,Benign Keratosis,True,-86.26586269479512,dark,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0070329.jpg,ISIC_0070329.jpg,6,4,Benign Keratosis,False,88.32442821013548,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0070448.jpg,ISIC_0070448.jpg,6,6,Benign Keratosis,True,86.81494864447752,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0070503.jpg,ISIC_0070503.jpg,6,6,Benign Keratosis,True,86.2042521843486,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0070540.jpg,ISIC_0070540.jpg,6,6,Benign Keratosis,True,85.62114572156648,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0070575.jpg,ISIC_0070575.jpg,6,6,Benign Keratosis,True,88.69672676824644,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0071421.jpg,ISIC_0071421.jpg,6,6,Benign Keratosis,True,88.53805362066133,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0071615.jpg,ISIC_0071615.jpg,6,6,Benign Keratosis,True,84.3857104224948,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0071793.jpg,ISIC_0071793.jpg,6,4,Benign Keratosis,False,88.07087324992973,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0071871.jpg,ISIC_0071871.jpg,6,6,Benign Keratosis,True,86.50431883758944,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0071930.jpg,ISIC_0071930.jpg,6,6,Benign Keratosis,True,87.20219868082154,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0072421.jpg,ISIC_0072421.jpg,6,6,Benign Keratosis,True,84.73199127605018,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0072658.jpg,ISIC_0072658.jpg,6,6,Benign Keratosis,True,88.15802347476384,very_light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0072815.jpg,ISIC_0072815.jpg,6,6,Benign Keratosis,True,30.175429134453832,light,BKL
+/content/data_split/test/6. Benign Keratosis-like Lesions (BKL) 2624/ISIC_0073021.jpg,ISIC_0073021.jpg,6,6,Benign Keratosis,True,89.38044947819098,very_light,BKL
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/0_1.jpg,0_1.jpg,8,8,Seborrheic Keratoses,True,80.20922993786121,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/0_22.jpg,0_22.jpg,8,7,Seborrheic Keratoses,False,69.83402421837498,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/0_24.jpg,0_24.jpg,8,8,Seborrheic Keratoses,True,76.11579574200039,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/165_1_10.jpg,165_1_10.jpg,8,6,Seborrheic Keratoses,False,86.70267720600592,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/177_1_22.jpg,177_1_22.jpg,8,6,Seborrheic Keratoses,False,86.31045030324104,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/195_1_41.jpg,195_1_41.jpg,8,6,Seborrheic Keratoses,False,87.39447590020335,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/1_29.jpg,1_29.jpg,8,3,Seborrheic Keratoses,False,84.7181947620477,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/1_30.jpg,1_30.jpg,8,8,Seborrheic Keratoses,True,80.28075486359782,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/1_34.jpg,1_34.jpg,8,8,Seborrheic Keratoses,True,79.67556702792216,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/1_40.jpg,1_40.jpg,8,8,Seborrheic Keratoses,True,76.16186850044055,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/2_18.jpg,2_18.jpg,8,8,Seborrheic Keratoses,True,75.22769499750581,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/3_1.jpg,3_1.jpg,8,8,Seborrheic Keratoses,True,86.63940189558231,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/3_15.jpg,3_15.jpg,8,8,Seborrheic Keratoses,True,89.96841544775899,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/3_3.jpg,3_3.jpg,8,8,Seborrheic Keratoses,True,88.25651521215086,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/4_17.jpg,4_17.jpg,8,8,Seborrheic Keratoses,True,80.59844011580968,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/5_18.jpg,5_18.jpg,8,8,Seborrheic Keratoses,True,88.39510059680953,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/6_1.jpg,6_1.jpg,8,8,Seborrheic Keratoses,True,82.49976370909145,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/7_6.jpg,7_6.jpg,8,8,Seborrheic Keratoses,True,82.43578158956821,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-20SebNevus02161.jpg,t-20SebNevus02161.jpg,8,8,Seborrheic Keratoses,True,86.07934205959171,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-accessory-trachus-1.jpg,t-accessory-trachus-1.jpg,8,3,Seborrheic Keratoses,False,-79.21630418251232,dark,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-accessory-trachus-4.jpg,t-accessory-trachus-4.jpg,8,9,Seborrheic Keratoses,False,84.06658381872391,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-acquired-digital-fibrokeratoma-6.jpg,t-acquired-digital-fibrokeratoma-6.jpg,8,8,Seborrheic Keratoses,True,-3.1281404158975556,tan,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-atypical-fibroxanthoma-2.jpg,t-atypical-fibroxanthoma-2.jpg,8,8,Seborrheic Keratoses,True,-87.619943119368,dark,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-chondrodermatitis-nodularis-36.jpg,t-chondrodermatitis-nodularis-36.jpg,8,8,Seborrheic Keratoses,True,85.64820801391228,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-chondrodermatitis-nodularis-46.jpg,t-chondrodermatitis-nodularis-46.jpg,8,8,Seborrheic Keratoses,True,79.4776593227711,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-chondrodermatitis-nodularis-59.jpg,t-chondrodermatitis-nodularis-59.jpg,8,8,Seborrheic Keratoses,True,77.06762518778943,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-chondrodermatitis-nodularis-7.jpg,t-chondrodermatitis-nodularis-7.jpg,8,8,Seborrheic Keratoses,True,83.13662777349181,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-chondrodermatitis-nodularis-78.jpg,t-chondrodermatitis-nodularis-78.jpg,8,8,Seborrheic Keratoses,True,73.17031703149402,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-dermatofibroma-103.jpg,t-dermatofibroma-103.jpg,8,8,Seborrheic Keratoses,True,80.95607467458123,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-dermatofibroma-20.jpg,t-dermatofibroma-20.jpg,8,8,Seborrheic Keratoses,True,77.42591919197986,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-dermatofibroma-24.jpg,t-dermatofibroma-24.jpg,8,8,Seborrheic Keratoses,True,81.64326151917008,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-dermatofibroma-33.jpg,t-dermatofibroma-33.jpg,8,8,Seborrheic Keratoses,True,80.42305460354272,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-dermatofibroma-34.jpg,t-dermatofibroma-34.jpg,8,8,Seborrheic Keratoses,True,-87.19899731373887,dark,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-dermatofibroma-56.jpg,t-dermatofibroma-56.jpg,8,8,Seborrheic Keratoses,True,86.55480654431113,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-dermatofibroma-75.jpg,t-dermatofibroma-75.jpg,8,8,Seborrheic Keratoses,True,82.54815307927231,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-dermatofibroma-83.jpg,t-dermatofibroma-83.jpg,8,8,Seborrheic Keratoses,True,78.97456975898555,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-dermatofibroma-92.jpg,t-dermatofibroma-92.jpg,8,8,Seborrheic Keratoses,True,86.73010440727157,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-epidermal-cyst-111.jpg,t-epidermal-cyst-111.jpg,8,8,Seborrheic Keratoses,True,84.13609353349926,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-epidermal-cyst-116.jpg,t-epidermal-cyst-116.jpg,8,8,Seborrheic Keratoses,True,83.71551822347574,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-epidermal-cyst-154.jpg,t-epidermal-cyst-154.jpg,8,8,Seborrheic Keratoses,True,81.95961588537239,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-epidermal-cyst-158.jpg,t-epidermal-cyst-158.jpg,8,8,Seborrheic Keratoses,True,83.89900078010126,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-epidermal-cyst-161.jpg,t-epidermal-cyst-161.jpg,8,8,Seborrheic Keratoses,True,82.56808112653258,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-epidermal-cyst-172.jpg,t-epidermal-cyst-172.jpg,8,8,Seborrheic Keratoses,True,79.26954655417508,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-epidermal-cyst-178.jpg,t-epidermal-cyst-178.jpg,8,8,Seborrheic Keratoses,True,72.25465544233312,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-epidermal-cyst-189.jpg,t-epidermal-cyst-189.jpg,8,8,Seborrheic Keratoses,True,82.33858417940614,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-epidermal-nevus-19.jpg,t-epidermal-nevus-19.jpg,8,8,Seborrheic Keratoses,True,-81.53062123054659,dark,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-epidermal-nevus-2.jpg,t-epidermal-nevus-2.jpg,8,8,Seborrheic Keratoses,True,78.90201562450042,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-epidermal-nevus-33.jpg,t-epidermal-nevus-33.jpg,8,8,Seborrheic Keratoses,True,76.12564577560323,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-epidermal-nevus-34.jpg,t-epidermal-nevus-34.jpg,8,8,Seborrheic Keratoses,True,-88.9412394839928,dark,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-epidermal-nevus-49.jpg,t-epidermal-nevus-49.jpg,8,8,Seborrheic Keratoses,True,80.17946530578365,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-epidermal-nevus-55.jpg,t-epidermal-nevus-55.jpg,8,8,Seborrheic Keratoses,True,75.25358429230988,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-epidermal-nevus-60.jpg,t-epidermal-nevus-60.jpg,8,8,Seborrheic Keratoses,True,75.74680206655486,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-epidermal-nevus-63.jpg,t-epidermal-nevus-63.jpg,8,8,Seborrheic Keratoses,True,85.13434066272987,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-epidermal-nevus-72.jpg,t-epidermal-nevus-72.jpg,8,8,Seborrheic Keratoses,True,82.03534712967048,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-epidermal-nevus-73.jpg,t-epidermal-nevus-73.jpg,8,8,Seborrheic Keratoses,True,83.9880921085993,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-epidermal-nevus-inflammatory-2.jpg,t-epidermal-nevus-inflammatory-2.jpg,8,8,Seborrheic Keratoses,True,-65.03164918602756,dark,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-epidermal-nevus-inflammatory-3.jpg,t-epidermal-nevus-inflammatory-3.jpg,8,8,Seborrheic Keratoses,True,-82.78697713722872,dark,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-hydrocystoma-6.jpg,t-hydrocystoma-6.jpg,8,8,Seborrheic Keratoses,True,79.10133565479347,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-keloids-24.jpg,t-keloids-24.jpg,8,8,Seborrheic Keratoses,True,-85.0269634143435,dark,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-keloids-69.jpg,t-keloids-69.jpg,8,7,Seborrheic Keratoses,False,81.48416029792837,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-keratoacanthoma-109.jpg,t-keratoacanthoma-109.jpg,8,8,Seborrheic Keratoses,True,80.4260165489535,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-keratoacanthoma-110.jpg,t-keratoacanthoma-110.jpg,8,8,Seborrheic Keratoses,True,81.47528968300983,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-keratoacanthoma-134.jpg,t-keratoacanthoma-134.jpg,8,8,Seborrheic Keratoses,True,85.78640233823654,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-keratoacanthoma-140.jpg,t-keratoacanthoma-140.jpg,8,8,Seborrheic Keratoses,True,84.24054521903768,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-keratoacanthoma-147.jpg,t-keratoacanthoma-147.jpg,8,8,Seborrheic Keratoses,True,82.2176465551093,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-keratoacanthoma-148.jpg,t-keratoacanthoma-148.jpg,8,8,Seborrheic Keratoses,True,84.02852417949023,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-keratoacanthoma-153.jpg,t-keratoacanthoma-153.jpg,8,8,Seborrheic Keratoses,True,80.39496564932354,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-keratoacanthoma-154.jpg,t-keratoacanthoma-154.jpg,8,8,Seborrheic Keratoses,True,79.90979970822073,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-keratoacanthoma-158.jpg,t-keratoacanthoma-158.jpg,8,8,Seborrheic Keratoses,True,78.58988672354405,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-keratoacanthoma-165.jpg,t-keratoacanthoma-165.jpg,8,8,Seborrheic Keratoses,True,84.93943977623921,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-keratoacanthoma-98.jpg,t-keratoacanthoma-98.jpg,8,8,Seborrheic Keratoses,True,82.91081275855518,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-melanoma-mimic-14.jpg,t-melanoma-mimic-14.jpg,8,8,Seborrheic Keratoses,True,88.94227651019605,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-melanoma-mimic-18.jpg,t-melanoma-mimic-18.jpg,8,8,Seborrheic Keratoses,True,83.88480354501758,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-melanoma-mimic-19.jpg,t-melanoma-mimic-19.jpg,8,8,Seborrheic Keratoses,True,83.03959729901554,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-melanoma-mimic-21.jpg,t-melanoma-mimic-21.jpg,8,8,Seborrheic Keratoses,True,83.00046169396875,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-neurofibromas-16.jpg,t-neurofibromas-16.jpg,8,8,Seborrheic Keratoses,True,-86.74104250228288,dark,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-nevus-sebaceous-26.jpg,t-nevus-sebaceous-26.jpg,8,8,Seborrheic Keratoses,True,-68.84825042100346,dark,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-nevus-sebaceous-33.jpg,t-nevus-sebaceous-33.jpg,8,7,Seborrheic Keratoses,False,84.72010440194289,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-nevus-sebaceous-43.jpg,t-nevus-sebaceous-43.jpg,8,8,Seborrheic Keratoses,True,-88.8983392573559,dark,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-nevus-sebaceous-49.jpg,t-nevus-sebaceous-49.jpg,8,8,Seborrheic Keratoses,True,82.02433982935213,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-nevus-sebaceous-61.jpg,t-nevus-sebaceous-61.jpg,8,8,Seborrheic Keratoses,True,71.22371734434529,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-nevus-sebaceous-7.jpg,t-nevus-sebaceous-7.jpg,8,8,Seborrheic Keratoses,True,-71.30784277336781,dark,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-nevus-sebaceous-8.jpg,t-nevus-sebaceous-8.jpg,8,8,Seborrheic Keratoses,True,-51.745431896960206,dark,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-pilar-cyst-24.jpg,t-pilar-cyst-24.jpg,8,9,Seborrheic Keratoses,False,-70.38576438087316,dark,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-pilar-cyst-46.jpg,t-pilar-cyst-46.jpg,8,8,Seborrheic Keratoses,True,77.85257494867204,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-pilar-cyst-51.jpg,t-pilar-cyst-51.jpg,8,8,Seborrheic Keratoses,True,82.2895143935586,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-pinkus-tumor-2.jpg,t-pinkus-tumor-2.jpg,8,8,Seborrheic Keratoses,True,-86.97900460506303,dark,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-porokeratosis-38.jpg,t-porokeratosis-38.jpg,8,8,Seborrheic Keratoses,True,86.49624640140115,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-porokeratosis-40.jpg,t-porokeratosis-40.jpg,8,8,Seborrheic Keratoses,True,77.69999064416473,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-porokeratosis-65.jpg,t-porokeratosis-65.jpg,8,8,Seborrheic Keratoses,True,-85.4079333097032,dark,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-porokeratosis-72.jpg,t-porokeratosis-72.jpg,8,8,Seborrheic Keratoses,True,82.5747502021066,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-sebaceous-hyperplasia-11.jpg,t-sebaceous-hyperplasia-11.jpg,8,8,Seborrheic Keratoses,True,73.65958568279048,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-sebaceous-hyperplasia-15.jpg,t-sebaceous-hyperplasia-15.jpg,8,8,Seborrheic Keratoses,True,80.62274472495957,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-sebaceous-hyperplasia-41.jpg,t-sebaceous-hyperplasia-41.jpg,8,8,Seborrheic Keratoses,True,77.85645672914787,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-sebaceous-hyperplasia-61.jpg,t-sebaceous-hyperplasia-61.jpg,8,8,Seborrheic Keratoses,True,78.1985791275449,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-sebaceous-hyperplasia-66.jpg,t-sebaceous-hyperplasia-66.jpg,8,8,Seborrheic Keratoses,True,85.25246812497481,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-sebaceous-hyperplasia-68.jpg,t-sebaceous-hyperplasia-68.jpg,8,8,Seborrheic Keratoses,True,80.80964286527555,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-sebaceous-hyperplasia-83.jpg,t-sebaceous-hyperplasia-83.jpg,8,8,Seborrheic Keratoses,True,82.4556825147588,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-sebaceous-hyperplasia-98.jpg,t-sebaceous-hyperplasia-98.jpg,8,8,Seborrheic Keratoses,True,87.41705158709257,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-ruff-110.jpg,t-seborrheic-keratoses-ruff-110.jpg,8,8,Seborrheic Keratoses,True,83.65023625481712,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-ruff-115.jpg,t-seborrheic-keratoses-ruff-115.jpg,8,8,Seborrheic Keratoses,True,80.96401950660045,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-ruff-121.jpg,t-seborrheic-keratoses-ruff-121.jpg,8,8,Seborrheic Keratoses,True,84.01299957861556,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-ruff-132.jpg,t-seborrheic-keratoses-ruff-132.jpg,8,8,Seborrheic Keratoses,True,82.48014361347543,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-ruff-16.jpg,t-seborrheic-keratoses-ruff-16.jpg,8,8,Seborrheic Keratoses,True,81.61649460505765,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-ruff-164.jpg,t-seborrheic-keratoses-ruff-164.jpg,8,8,Seborrheic Keratoses,True,83.65655083270366,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-ruff-166.jpg,t-seborrheic-keratoses-ruff-166.jpg,8,8,Seborrheic Keratoses,True,82.85180865606051,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-ruff-167.jpg,t-seborrheic-keratoses-ruff-167.jpg,8,8,Seborrheic Keratoses,True,75.63139766674384,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-ruff-175.jpg,t-seborrheic-keratoses-ruff-175.jpg,8,8,Seborrheic Keratoses,True,82.41871054049348,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-ruff-176.jpg,t-seborrheic-keratoses-ruff-176.jpg,8,8,Seborrheic Keratoses,True,79.38985245740253,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-ruff-183.jpg,t-seborrheic-keratoses-ruff-183.jpg,8,8,Seborrheic Keratoses,True,84.9527834787668,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-ruff-19.jpg,t-seborrheic-keratoses-ruff-19.jpg,8,8,Seborrheic Keratoses,True,-88.63700778256732,dark,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-smooth-103.jpg,t-seborrheic-keratoses-smooth-103.jpg,8,8,Seborrheic Keratoses,True,70.65714960399059,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-smooth-13.jpg,t-seborrheic-keratoses-smooth-13.jpg,8,8,Seborrheic Keratoses,True,79.95575811264672,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-smooth-63.jpg,t-seborrheic-keratoses-smooth-63.jpg,8,8,Seborrheic Keratoses,True,86.07090558245577,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-smooth-67.jpg,t-seborrheic-keratoses-smooth-67.jpg,8,8,Seborrheic Keratoses,True,80.15620164946554,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-smooth-75.jpg,t-seborrheic-keratoses-smooth-75.jpg,8,8,Seborrheic Keratoses,True,80.95181954991939,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-smooth-82.jpg,t-seborrheic-keratoses-smooth-82.jpg,8,8,Seborrheic Keratoses,True,88.34244412217946,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-smooth-90.jpg,t-seborrheic-keratoses-smooth-90.jpg,8,8,Seborrheic Keratoses,True,80.04225553546597,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-smooth-95.jpg,t-seborrheic-keratoses-smooth-95.jpg,8,8,Seborrheic Keratoses,True,75.40003949499598,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-smooth-97.jpg,t-seborrheic-keratoses-smooth-97.jpg,8,8,Seborrheic Keratoses,True,79.67236209940114,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratoses-smooth-98.jpg,t-seborrheic-keratoses-smooth-98.jpg,8,8,Seborrheic Keratoses,True,79.40262057576973,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratosis-irritated-116.jpg,t-seborrheic-keratosis-irritated-116.jpg,8,8,Seborrheic Keratoses,True,86.22030293506752,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratosis-irritated-141.jpg,t-seborrheic-keratosis-irritated-141.jpg,8,8,Seborrheic Keratoses,True,85.936515696378,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratosis-irritated-16.jpg,t-seborrheic-keratosis-irritated-16.jpg,8,8,Seborrheic Keratoses,True,76.56165841822263,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratosis-irritated-169.jpg,t-seborrheic-keratosis-irritated-169.jpg,8,8,Seborrheic Keratoses,True,87.43248343833521,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratosis-irritated-87.jpg,t-seborrheic-keratosis-irritated-87.jpg,8,8,Seborrheic Keratoses,True,84.6339096369237,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratosis-irritated-88.jpg,t-seborrheic-keratosis-irritated-88.jpg,8,8,Seborrheic Keratoses,True,84.6339096369237,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratosis-irritated-9.jpg,t-seborrheic-keratosis-irritated-9.jpg,8,8,Seborrheic Keratoses,True,86.87794992018213,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-seborrheic-keratosis-irritated-93.jpg,t-seborrheic-keratosis-irritated-93.jpg,8,8,Seborrheic Keratoses,True,82.70705583332435,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-skin-tags-polyps-1.jpg,t-skin-tags-polyps-1.jpg,8,8,Seborrheic Keratoses,True,-88.97297377270414,dark,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-skin-tags-polyps-14.jpg,t-skin-tags-polyps-14.jpg,8,8,Seborrheic Keratoses,True,72.461245781167,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-skin-tags-polyps-15.jpg,t-skin-tags-polyps-15.jpg,8,8,Seborrheic Keratoses,True,72.38228555814456,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-skin-tags-polyps-80.jpg,t-skin-tags-polyps-80.jpg,8,8,Seborrheic Keratoses,True,75.1724981582557,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-skin-tags-polyps-85.jpg,t-skin-tags-polyps-85.jpg,8,8,Seborrheic Keratoses,True,79.68199569582079,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-skin-tags-polyps-9.jpg,t-skin-tags-polyps-9.jpg,8,8,Seborrheic Keratoses,True,-88.92734882034041,dark,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-skin-tags-polyps-90.jpg,t-skin-tags-polyps-90.jpg,8,8,Seborrheic Keratoses,True,83.03872117643192,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-skin-tags-polyps-93.jpg,t-skin-tags-polyps-93.jpg,8,8,Seborrheic Keratoses,True,80.6491543738196,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-skin-tags-polyps-96.jpg,t-skin-tags-polyps-96.jpg,8,8,Seborrheic Keratoses,True,75.68072426639601,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-spiny-keratoderma-8.jpg,t-spiny-keratoderma-8.jpg,8,8,Seborrheic Keratoses,True,82.94854132037784,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-stucco-keratoses-15.jpg,t-stucco-keratoses-15.jpg,8,8,Seborrheic Keratoses,True,-89.54618566380402,dark,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-stucco-keratoses-32.jpg,t-stucco-keratoses-32.jpg,8,8,Seborrheic Keratoses,True,85.77357821194047,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-stucco-keratoses-56.jpg,t-stucco-keratoses-56.jpg,8,8,Seborrheic Keratoses,True,-86.01904321882154,dark,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-stucco-keratoses-6.jpg,t-stucco-keratoses-6.jpg,8,8,Seborrheic Keratoses,True,-86.97433866537534,dark,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-syringoma-30.jpg,t-syringoma-30.jpg,8,8,Seborrheic Keratoses,True,84.03948819416465,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-syringoma-40.jpg,t-syringoma-40.jpg,8,8,Seborrheic Keratoses,True,77.11113757861186,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-syringoma-44.jpg,t-syringoma-44.jpg,8,8,Seborrheic Keratoses,True,-81.92590394608429,dark,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-syringoma-48.jpg,t-syringoma-48.jpg,8,8,Seborrheic Keratoses,True,55.7333265332754,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-trichoepithelioma-1.jpg,t-trichoepithelioma-1.jpg,8,8,Seborrheic Keratoses,True,80.58381186925038,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/t-trichofolliculoma-4.jpg,t-trichofolliculoma-4.jpg,8,8,Seborrheic Keratoses,True,78.4309230705023,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-20Keratoacanthoma072102.jpg,v-20Keratoacanthoma072102.jpg,8,8,Seborrheic Keratoses,True,83.2471929484904,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-chondrodermatitis-nodularis-48.jpg,v-chondrodermatitis-nodularis-48.jpg,8,8,Seborrheic Keratoses,True,86.01028920241544,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-cylindroma-2.jpg,v-cylindroma-2.jpg,8,8,Seborrheic Keratoses,True,-89.65287671520454,dark,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-dermatofibroma-105.jpg,v-dermatofibroma-105.jpg,8,8,Seborrheic Keratoses,True,80.83476172735182,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-dermatofibroma-106.jpg,v-dermatofibroma-106.jpg,8,8,Seborrheic Keratoses,True,76.7890808729933,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-dermatofibroma-109.jpg,v-dermatofibroma-109.jpg,8,8,Seborrheic Keratoses,True,84.12032962740282,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-dermatofibroma-96.jpg,v-dermatofibroma-96.jpg,8,8,Seborrheic Keratoses,True,84.30883766682118,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-follicular-keratosis-1.jpg,v-follicular-keratosis-1.jpg,8,8,Seborrheic Keratoses,True,-85.75480810162396,dark,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-keloids-32.jpg,v-keloids-32.jpg,8,8,Seborrheic Keratoses,True,-88.69467665121034,dark,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-keloids-62.jpg,v-keloids-62.jpg,8,8,Seborrheic Keratoses,True,-74.09817055828559,dark,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-keloids-75.jpg,v-keloids-75.jpg,8,8,Seborrheic Keratoses,True,85.15234466903678,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-keratoacanthoma-1.jpg,v-keratoacanthoma-1.jpg,8,8,Seborrheic Keratoses,True,83.78081371098916,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-keratoacanthoma-145.jpg,v-keratoacanthoma-145.jpg,8,8,Seborrheic Keratoses,True,76.88274951492036,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-keratoacanthoma-82.jpg,v-keratoacanthoma-82.jpg,8,8,Seborrheic Keratoses,True,77.12274282545735,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-keratosis-punctata-1.jpg,v-keratosis-punctata-1.jpg,8,8,Seborrheic Keratoses,True,-89.22888854115568,dark,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-leiomyomata-4.jpg,v-leiomyomata-4.jpg,8,1,Seborrheic Keratoses,False,85.94393547858792,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-neurofibromas-5.jpg,v-neurofibromas-5.jpg,8,8,Seborrheic Keratoses,True,89.44223993075661,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-nevus-sebaceous-56.jpg,v-nevus-sebaceous-56.jpg,8,8,Seborrheic Keratoses,True,85.81138084901944,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-pilar-cyst-2.jpg,v-pilar-cyst-2.jpg,8,8,Seborrheic Keratoses,True,-11.88146898893032,tan,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-sebaceous-hyperplasia-1.jpg,v-sebaceous-hyperplasia-1.jpg,8,8,Seborrheic Keratoses,True,81.88477357533473,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-sebaceous-hyperplasia-13.jpg,v-sebaceous-hyperplasia-13.jpg,8,8,Seborrheic Keratoses,True,75.36335706261283,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-sebaceous-hyperplasia-132.jpg,v-sebaceous-hyperplasia-132.jpg,8,8,Seborrheic Keratoses,True,82.39730050448237,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-sebaceous-hyperplasia-2.jpg,v-sebaceous-hyperplasia-2.jpg,8,8,Seborrheic Keratoses,True,-85.6402681287911,dark,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-sebaceous-hyperplasia-36.jpg,v-sebaceous-hyperplasia-36.jpg,8,8,Seborrheic Keratoses,True,72.7465380040503,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-sebaceous-hyperplasia-59.jpg,v-sebaceous-hyperplasia-59.jpg,8,8,Seborrheic Keratoses,True,83.22535619887108,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-sebaceous-hyperplasia-75.jpg,v-sebaceous-hyperplasia-75.jpg,8,8,Seborrheic Keratoses,True,83.72315779248241,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-seborrheic-keratoses-ruff-101.jpg,v-seborrheic-keratoses-ruff-101.jpg,8,8,Seborrheic Keratoses,True,72.2449473030192,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-seborrheic-keratoses-ruff-111.jpg,v-seborrheic-keratoses-ruff-111.jpg,8,8,Seborrheic Keratoses,True,77.62905805665929,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-seborrheic-keratoses-ruff-92.jpg,v-seborrheic-keratoses-ruff-92.jpg,8,0,Seborrheic Keratoses,False,73.73121967368061,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-seborrheic-keratoses-smooth-127.jpg,v-seborrheic-keratoses-smooth-127.jpg,8,8,Seborrheic Keratoses,True,72.35281433800357,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-seborrheic-keratoses-smooth-35.jpg,v-seborrheic-keratoses-smooth-35.jpg,8,8,Seborrheic Keratoses,True,81.77869946178713,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-seborrheic-keratoses-smooth-57.jpg,v-seborrheic-keratoses-smooth-57.jpg,8,8,Seborrheic Keratoses,True,84.01162445701786,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-seborrheic-keratoses-smooth-6.jpg,v-seborrheic-keratoses-smooth-6.jpg,8,8,Seborrheic Keratoses,True,80.97863615916863,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-seborrheic-keratosis-irritated-137.jpg,v-seborrheic-keratosis-irritated-137.jpg,8,9,Seborrheic Keratoses,False,80.20512886025713,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-seborrheic-keratosis-irritated-86.jpg,v-seborrheic-keratosis-irritated-86.jpg,8,8,Seborrheic Keratoses,True,78.99409672635845,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-skin-tags-polyps-16.jpg,v-skin-tags-polyps-16.jpg,8,8,Seborrheic Keratoses,True,78.46201119191956,very_light,Seb. K.
+/content/data_split/test/8. Seborrheic Keratoses and other Benign Tumors - 1.8k/v-skin-tags-polyps-70.jpg,v-skin-tags-polyps-70.jpg,8,8,Seborrheic Keratoses,True,83.64271829718507,very_light,Seb. K.

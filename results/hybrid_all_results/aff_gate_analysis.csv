@@ -1,0 +1,11 @@
+Class,Mean_Alpha,Std,Dominant_Path
+Eczema,0.4928,0.0044,Balanced
+Warts / Molluscum,0.4926,0.0058,Balanced
+Atopic Dermatitis,0.4921,0.007,Balanced
+Psoriasis / Lichen Planus,0.4913,0.0059,Balanced
+Tinea / Candidiasis,0.4902,0.0059,Balanced
+Seborrheic Keratoses,0.4884,0.0063,Balanced
+Benign Keratosis,0.479,0.0039,Balanced
+Basal Cell Carcinoma,0.4741,0.0036,Balanced
+Melanoma,0.4739,0.0032,Balanced
+Melanocytic Nevi,0.4725,0.003,Balanced

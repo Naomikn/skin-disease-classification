@@ -1,0 +1,62 @@
+{
+  "model": "ConvNeXt-Small + Swin-Small (AFF)",
+  "single_model_accuracy": 0.8939,
+  "ensemble_tta_accuracy": 0.9027,
+  "macro_f1": 0.8663,
+  "macro_auroc": 0.9799,
+  "ece": 0.0723,
+  "best_val_accuracy": 0.8912,
+  "best_epoch": 48,
+  "total_epochs_run": 51,
+  "img_size": 224,
+  "batch_size": 32,
+  "convnext_checkpoint": "convnext_small.fb_in22k_ft_in1k",
+  "swin_checkpoint": "swin_small_patch4_window7_224.ms_in22k_ft_in1k",
+  "label_smoothing": 0.05,
+  "warmup_epochs": 5,
+  "num_classes": 10,
+  "class_names": [
+    "Eczema",
+    "Warts / Molluscum",
+    "Melanoma",
+    "Atopic Dermatitis",
+    "Basal Cell Carcinoma",
+    "Melanocytic Nevi",
+    "Benign Keratosis",
+    "Psoriasis / Lichen Planus",
+    "Seborrheic Keratoses",
+    "Tinea / Candidiasis"
+  ],
+  "skin_tone_results": [
+    {
+      "Group": "very_light",
+      "N": 2279,
+      "Accuracy": 0.9079,
+      "Macro_F1": 0.8707
+    },
+    {
+      "Group": "light",
+      "N": 19,
+      "Accuracy": 0.7895,
+      "Macro_F1": 0.7524
+    },
+    {
+      "Group": "intermediate",
+      "N": 3,
+      "Accuracy": 1.0,
+      "Macro_F1": 1.0
+    },
+    {
+      "Group": "tan",
+      "N": 10,
+      "Accuracy": 0.8,
+      "Macro_F1": 0.6381
+    },
+    {
+      "Group": "dark",
+      "N": 412,
+      "Accuracy": 0.8811,
+      "Macro_F1": 0.8202
+    }
+  ]
+}

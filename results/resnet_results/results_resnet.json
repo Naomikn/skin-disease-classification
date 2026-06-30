@@ -1,0 +1,63 @@
+{
+  "model": "ResNet-50 Baseline",
+  "single_model_accuracy": 0.7679,
+  "ensemble_tta_accuracy": 0.7848,
+  "macro_f1": 0.7453,
+  "macro_auroc": 0.9766,
+  "best_val_accuracy": 0.7669,
+  "best_epoch": 42,
+  "total_epochs_run": 51,
+  "early_stopped": false,
+  "img_size": 224,
+  "batch_size": 32,
+  "backbone": "ResNet-50 (ImageNet1K_V2)",
+  "feature_dim": 2048,
+  "label_smoothing": 0.05,
+  "warmup_epochs": 5,
+  "num_classes": 10,
+  "class_names": [
+    "Eczema",
+    "Warts / Molluscum",
+    "Melanoma",
+    "Atopic Dermatitis",
+    "Basal Cell Carcinoma",
+    "Melanocytic Nevi",
+    "Benign Keratosis",
+    "Psoriasis / Lichen Planus",
+    "Seborrheic Keratoses",
+    "Tinea / Candidiasis"
+  ],
+  "skin_tone_results": [
+    {
+      "Group": "very_light",
+      "N": 2279,
+      "Accuracy": 0.7986,
+      "Macro_F1": 0.7536
+    },
+    {
+      "Group": "light",
+      "N": 19,
+      "Accuracy": 0.6316,
+      "Macro_F1": 0.6147
+    },
+    {
+      "Group": "intermediate",
+      "N": 3,
+      "Accuracy": 0.6667,
+      "Macro_F1": 0.5
+    },
+    {
+      "Group": "tan",
+      "N": 10,
+      "Accuracy": 0.8,
+      "Macro_F1": 0.8222
+    },
+    {
+      "Group": "dark",
+      "N": 412,
+      "Accuracy": 0.716,
+      "Macro_F1": 0.6683
+    }
+  ],
+  "note": "Baseline model for comparison with ConvNeXt+Swin hybrid. Identical train/val/test split (seed=42), augmentation, loss function, and evaluation protocol."
+}

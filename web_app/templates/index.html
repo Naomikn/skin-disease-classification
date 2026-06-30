@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skin Disease Classifier</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            background: #f0f4f8;
+            color: #1a1a2e;
+            min-height: 100vh;
+        }
+
+        /* ── Header ── */
+        header {
+            background: #1a3a5c;
+            color: white;
+            padding: 20px 40px;
+            display: flex;
+            align-items: center;
+            gap: 16px;
+        }
+        header h1 {
+            font-size: 22px;
+            font-weight: 700;
+            letter-spacing: 0.3px;
+        }
+        header p {
+            font-size: 13px;
+            opacity: 0.8;
+            margin-top: 3px;
+        }
+        .header-icon {
+            font-size: 32px;
+        }
+
+        /* ── Main layout ── */
+        .container {
+            max-width: 1000px;
+            margin: 32px auto;
+            padding: 0 20px;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 24px;
+        }
+
+        /* ── Cards ── */
+        .card {
+            background: white;
+            border-radius: 12px;
+            padding: 28px;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+        }
+        .card h2 {
+            font-size: 15px;
+            font-weight: 600;
+            color: #1a3a5c;
+            margin-bottom: 18px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #e8f0fe;
+        }
+
+        /* ── Upload area ── */
+        .upload-area {
+            border: 2px dashed #b0c4de;
+            border-radius: 10px;
+            padding: 32px 20px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.2s;
+            background: #f8faff;
+            margin-bottom: 16px;
+        }
+        .upload-area:hover {
+            border-color: #1a3a5c;
+            background: #eef3fb;
+        }
+        .upload-area.dragover {
+            border-color: #2ecc71;
+            background: #f0fff4;
+        }
+        .upload-icon { font-size: 40px; margin-bottom: 10px; }
+        .upload-area p {
+            font-size: 13px;
+            color: #666;
+            margin-top: 6px;
+        }
+        .upload-area strong {
+            color: #1a3a5c;
+            font-size: 14px;
+        }
+
+        #preview {
+            width: 100%;
+            max-height: 220px;
+            object-fit: contain;
+            border-radius: 8px;
+            display: none;
+            margin-bottom: 16px;
+            border: 1px solid #e0e0e0;
+        }
+
+        #fileInput { display: none; }
+
+        /* ── Buttons ── */
+        .btn {
+            width: 100%;
+            padding: 12px;
+            border: none;
+            border-radius: 8px;
+            font-size: 15px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: opacity 0.2s;
+            margin-top: 8px;
+        }
+        .btn:hover { opacity: 0.88; }
+        .btn-primary { background: #1a3a5c; color: white; }
+        .btn-clear   { background: #e8eef5; color: #1a3a5c; }
+        .btn-flag {
+            background: #fff3e0;
+            color: #e65100;
+            border: 1px solid #e65100;
+            font-size: 13px;
+            padding: 8px;
+        }
+        .btn:disabled { opacity: 0.5; cursor: not-allowed; }
+
+        /* ── Results ── */
+        #resultsCard { display: none; }
+
+        .predicted-class {
+            font-size: 22px;
+            font-weight: 700;
+            color: #1a3a5c;
+            margin-bottom: 6px;
+        }
+        .confidence-text {
+            font-size: 14px;
+            color: #555;
+            margin-bottom: 16px;
+        }
+
+        /* Risk badge */
+        .risk-badge {
+            display: inline-block;
+            padding: 5px 14px;
+            border-radius: 20px;
+            font-size: 13px;
+            font-weight: 700;
+            letter-spacing: 0.5px;
+            margin-bottom: 14px;
+        }
+        .risk-HIGH   { background: #fde8e8; color: #c0392b; }
+        .risk-MEDIUM { background: #fff3e0; color: #e65100; }
+        .risk-LOW    { background: #e8f5e9; color: #1b5e20; }
+
+        .recommendation {
+            font-size: 13px;
+            color: #444;
+            background: #f5f9fc;
+            padding: 10px 14px;
+            border-radius: 8px;
+            border-left: 3px solid #1a3a5c;
+            margin-bottom: 18px;
+            line-height: 1.5;
+        }
+
+        /* Top 5 */
+        .top5-title {
+            font-size: 13px;
+            font-weight: 600;
+            color: #1a3a5c;
+            margin-bottom: 10px;
+        }
+        .top5-item {
+            margin-bottom: 8px;
+        }
+        .top5-label {
+            display: flex;
+            justify-content: space-between;
+            font-size: 12px;
+            color: #444;
+            margin-bottom: 3px;
+        }
+        .top5-bar-bg {
+            height: 8px;
+            background: #e8eef5;
+            border-radius: 4px;
+            overflow: hidden;
+        }
+        .top5-bar-fill {
+            height: 100%;
+            border-radius: 4px;
+            transition: width 0.5s ease;
+        }
+        .bar-HIGH   { background: #e74c3c; }
+        .bar-MEDIUM { background: #e67e22; }
+        .bar-LOW    { background: #2ecc71; }
+
+        /* Disclaimer */
+        .disclaimer {
+            font-size: 11px;
+            color: #888;
+            font-style: italic;
+            margin-top: 16px;
+            padding-top: 12px;
+            border-top: 1px solid #eee;
+            line-height: 1.5;
+        }
+
+        /* Flag confirm */
+        .flag-confirm {
+            display: none;
+            font-size: 12px;
+            color: #e65100;
+            margin-top: 8px;
+            padding: 6px 10px;
+            background: #fff3e0;
+            border-radius: 6px;
+        }
+
+        /* Loading spinner */
+        .spinner {
+            display: none;
+            text-align: center;
+            padding: 20px;
+            color: #1a3a5c;
+            font-size: 14px;
+        }
+        .spinner::before {
+            content: '';
+            display: block;
+            width: 32px;
+            height: 32px;
+            border: 3px solid #e8eef5;
+            border-top-color: #1a3a5c;
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+            margin: 0 auto 10px;
+        }
+        @keyframes spin { to { transform: rotate(360deg); } }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            font-size: 12px;
+            color: #aaa;
+            padding: 24px;
+            margin-top: 8px;
+        }
+
+        @media (max-width: 680px) {
+            .container { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <div class="header-icon">🔬</div>
+    <div>
+        <h1>Skin Disease Classifier</h1>
+        <p>Clinical Decision Support</p>
+    </div>
+</header>
+
+<div class="container">
+
+    <!-- ── Upload Panel ── -->
+    <div class="card">
+        <h2>📁 Upload Skin Image</h2>
+
+        <img id="preview" alt="Image preview">
+
+        <div class="upload-area" id="uploadArea"
+             onclick="document.getElementById('fileInput').click()">
+            <div class="upload-icon">🖼️</div>
+            <strong>Click to select an image</strong>
+            <p>or drag and drop here</p>
+            <p>JPEG · PNG · WebP · Max 10MB</p>
+        </div>
+
+        <input type="file" id="fileInput" accept="image/jpeg,image/png,image/webp">
+
+        <button class="btn btn-primary" id="submitBtn"
+                onclick="classify()" disabled>
+            Classify Image
+        </button>
+        <button class="btn btn-clear" onclick="clearAll()">
+            Clear
+        </button>
+    </div>
+
+    <!-- ── Results Panel ── -->
+    <div class="card" id="resultsCard">
+        <h2>📋 Classification Result</h2>
+
+        <div class="spinner" id="spinner">Analysing image...</div>
+
+        <div id="resultContent">
+            <div class="predicted-class" id="predictedClass"></div>
+            <div class="confidence-text" id="confidenceText"></div>
+            <div class="risk-badge" id="riskBadge"></div>
+            <div class="recommendation" id="recommendation"></div>
+
+            <div class="top5-title">Top 5 Predictions</div>
+            <div id="top5"></div>
+
+            <div class="disclaimer" id="disclaimer"></div>
+
+            <button class="btn btn-flag" id="flagBtn"
+                    onclick="flagPrediction()" style="display:none;">
+                🚩 Flag as Incorrect
+            </button>
+            <div class="flag-confirm" id="flagConfirm">
+                ⚠️ Flagged for clinical review. Thank you for your feedback.
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<footer>
+    Skin Disease Classifier · For clinical decision support only ·
+    Not a substitute for medical diagnosis
+</footer>
+
+<script>
+    const fileInput     = document.getElementById('fileInput');
+    const preview       = document.getElementById('preview');
+    const uploadArea    = document.getElementById('uploadArea');
+    const submitBtn     = document.getElementById('submitBtn');
+    const resultsCard   = document.getElementById('resultsCard');
+    const spinner       = document.getElementById('spinner');
+    const resultContent = document.getElementById('resultContent');
+
+    // File input change
+    fileInput.addEventListener('change', e => {
+        const file = e.target.files[0];
+        if (file) loadPreview(file);
+    });
+
+    // Drag and drop
+    uploadArea.addEventListener('dragover', e => {
+        e.preventDefault();
+        uploadArea.classList.add('dragover');
+    });
+    uploadArea.addEventListener('dragleave', () => {
+        uploadArea.classList.remove('dragover');
+    });
+    uploadArea.addEventListener('drop', e => {
+        e.preventDefault();
+        uploadArea.classList.remove('dragover');
+        const file = e.dataTransfer.files[0];
+        if (file) loadPreview(file);
+    });
+
+    function loadPreview(file) {
+        const reader = new FileReader();
+        reader.onload = e => {
+            preview.src = e.target.result;
+            preview.style.display = 'block';
+            uploadArea.style.display = 'none';
+            submitBtn.disabled = false;
+        };
+        reader.readAsDataURL(file);
+    }
+
+    function clearAll() {
+        fileInput.value = '';
+        preview.src = '';
+        preview.style.display = 'none';
+        uploadArea.style.display = 'block';
+        submitBtn.disabled = true;
+        resultsCard.style.display = 'none';
+        document.getElementById('flagBtn').style.display = 'none';
+        document.getElementById('flagConfirm').style.display = 'none';
+    }
+
+    async function classify() {
+        const file = fileInput.files[0];
+        if (!file) return;
+
+        resultsCard.style.display = 'block';
+        spinner.style.display = 'block';
+        resultContent.style.display = 'none';
+        submitBtn.disabled = true;
+
+        const formData = new FormData();
+        formData.append('file', file);
+
+        try {
+            const res  = await fetch('/predict', {
+                method: 'POST', body: formData
+            });
+            const data = await res.json();
+
+            if (data.error) {
+                alert('Error: ' + data.error);
+                spinner.style.display = 'none';
+                return;
+            }
+
+            document.getElementById('predictedClass').textContent =
+                data.predicted_class;
+            document.getElementById('confidenceText').textContent =
+                `Confidence: ${data.confidence_percent.toFixed(1)}%`;
+
+            const badge = document.getElementById('riskBadge');
+            badge.textContent = `${data.risk_level} RISK`;
+            badge.className = `risk-badge risk-${data.risk_level}`;
+
+            document.getElementById('recommendation').textContent =
+                data.recommendation;
+
+            // Top 5 bars
+            const top5Div = document.getElementById('top5');
+            top5Div.innerHTML = '';
+            data.top_5.forEach(item => {
+                top5Div.innerHTML += `
+                    <div class="top5-item">
+                        <div class="top5-label">
+                            <span>${item.class}</span>
+                            <span>${item.confidence.toFixed(1)}%</span>
+                        </div>
+                        <div class="top5-bar-bg">
+                            <div class="top5-bar-fill bar-${item.risk}"
+                                 style="width:${Math.min(item.confidence,100)}%">
+                            </div>
+                        </div>
+                    </div>`;
+            });
+
+            document.getElementById('disclaimer').textContent =
+                data.disclaimer;
+
+            spinner.style.display = 'none';
+            resultContent.style.display = 'block';
+
+            // Show flag button, hide confirm
+            document.getElementById('flagBtn').style.display = 'block';
+            document.getElementById('flagConfirm').style.display = 'none';
+
+        } catch (err) {
+            alert('Prediction failed: ' + err.message);
+            spinner.style.display = 'none';
+        }
+
+        submitBtn.disabled = false;
+    }
+
+    async function flagPrediction() {
+        await fetch('/flag', { method: 'POST' });
+        document.getElementById('flagBtn').style.display = 'none';
+        document.getElementById('flagConfirm').style.display = 'block';
+    }
+</script>
+
+</body>
+</html>

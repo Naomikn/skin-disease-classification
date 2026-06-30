@@ -1,0 +1,11 @@
+class_name,short_name,skin_group,n,accuracy,ci_lower,ci_upper,reliable
+Benign Keratosis,BKL,very_light,145,0.8621,0.7965,0.9089,True
+Benign Keratosis,BKL,light,2,1.0,,,False
+Benign Keratosis,BKL,intermediate,1,1.0,,,False
+Benign Keratosis,BKL,tan,1,0.0,,,False
+Benign Keratosis,BKL,dark,60,0.8833,0.7782,0.9423,True
+Basal Cell Carcinoma,BCC,very_light,252,0.9524,0.9186,0.9726,True
+Basal Cell Carcinoma,BCC,dark,81,0.9877,0.9333,0.9978,True
+Seborrheic Keratoses,Seb. K.,very_light,155,0.929,0.8774,0.9599,True
+Seborrheic Keratoses,Seb. K.,tan,2,1.0,,,False
+Seborrheic Keratoses,Seb. K.,dark,29,0.931,0.7804,0.9809,True

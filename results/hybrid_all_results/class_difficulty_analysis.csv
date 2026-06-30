@@ -1,0 +1,11 @@
+Class,Train_N,Test_N,Accuracy,Recall,Precision,F1,False_Negatives,False_Positives,Difficulty
+Atopic Dermatitis,1005,127,0.724,0.724,0.667,0.694,36,47,HIGH
+Psoriasis / Lichen Planus,1644,206,0.757,0.757,0.754,0.755,56,45,MEDIUM
+Eczema,1341,169,0.799,0.799,0.823,0.811,32,29,MEDIUM
+Tinea / Candidiasis,1361,171,0.836,0.836,0.867,0.851,27,27,MEDIUM
+Warts / Molluscum,1682,211,0.848,0.848,0.869,0.859,34,29,MEDIUM
+Benign Keratosis,1663,209,0.866,0.866,0.858,0.862,37,31,MEDIUM
+Seborrheic Keratoses,1477,186,0.93,0.93,0.925,0.928,14,19,LOW
+Basal Cell Carcinoma,2658,333,0.961,0.961,0.928,0.944,14,25,LOW
+Melanocytic Nevi,6376,797,0.96,0.96,0.983,0.971,38,22,LOW
+Melanoma,2512,314,1.0,1.0,0.975,0.987,1,15,LOW
